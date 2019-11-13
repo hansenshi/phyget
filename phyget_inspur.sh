@@ -420,8 +420,8 @@ addUser () {
   local UserN PassN
 #  read -p "  用户名: " UserN
 #  read -sp "    密码: " PassN ; echo
-  UserN='adminapi'
-  PassN='Ops2@19i2ppd'
+  UserN='TESTADMIN'
+  PassN='PASSWORD'
   echo
   $ExeCmd -H $1 -U $User -P $Pass addUser -N $UserN -PWD $PassN -G administrator -ACCESS enable &> /dev/null && echo "  User $UserN add success"
 }
@@ -460,10 +460,9 @@ PrePath=$FilePath/pre
 LogPath=/opt/ISREST/ISREST-Linux-V1R1/logs/
 ExeCmd=/opt/ISREST/ISREST-Linux-V1R1/bin/isrest
 
-User='admin'
-#Pass='Admin123'
-Pass='Ops68!ppd'
-ReadCommunity='One1Dream2'
+User='ADMIN'
+Pass='PASSWORD'
+ReadCommunity='COMMUNITY'
 iplst=`cat phyget_inspur.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
 
