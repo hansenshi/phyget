@@ -1,0 +1,41 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2003,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to configure the      -->
+<!--         virtual media port functionality on iLO.                -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        and other values inside the quotation marks with values  -->
+<!--        that are appropriate for your environment.               -->
+
+<!-- Help:                                                           -->
+<!-- VMEDIA_DISABLE :                                                -->
+<!--        To disable port set the VMEDIA_DISABLE to True/Yes/1/Y.  -->
+<!--        To enable port set the VMEDIA_DISABLE to False/No/0/N.   -->
+<!--        Enable or disable of port will reset the iLO.            -->
+<!-- VIRTUAL_MEDIA_PORT:                                             -->
+<!--       The VIRTUAL_MEDIA_PORT value specifies TCP port number    -->
+<!--       on which Virtual Media Service listens. Change of port    -->
+<!--       value results in reset of iLO.                            -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - All versions.                                -->
+<!--            iLO 3 - All versions.                                -->
+
+
+<RIBCL VERSION="2.0">
+  <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+    <RIB_INFO MODE="write">
+      <MOD_GLOBAL_SETTINGS>
+        <VIRTUAL_MEDIA_PORT VALUE = "17988"/>
+      </MOD_GLOBAL_SETTINGS>
+    </RIB_INFO>
+  </LOGIN>
+</RIBCL>

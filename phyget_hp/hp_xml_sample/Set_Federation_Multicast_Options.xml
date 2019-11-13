@@ -1,0 +1,51 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2013,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to set the            -->
+<!--        Federation multicast options.                            -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Modification of Federation multicast settings requires   -->
+<!--        Configure iLO privilege.                                 -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - version 1.40 or later.                       -->
+
+
+<RIBCL VERSION="2.0">
+  <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+    <RIB_INFO MODE="write">
+      <SET_FEDERATION_MULTICAST>
+        <MULTICAST_FEDERATION_ENABLED VALUE="Yes"/>
+        <!-- Notes:
+
+             Disabling multicast discovery or announcements will
+             disable iLO Federation features.
+
+             All devices in a Federation group should have the same
+             scope and TTL to avoid problems with peer discovery.    -->
+
+        <MULTICAST_DISCOVERY_ENABLED VALUE="Yes"/>
+        <!-- Valid values for MULTICAST_ANNOUNCEMENT_INTERVAL are
+                 "Disabled", "30", "60", "120", "300", "600",
+                 "900", and "1800".  Numeric values are in seconds.  -->
+        <MULTICAST_ANNOUNCEMENT_INTERVAL VALUE="30"/>
+        <!-- Valid values for IPV6_MULTICAST_SCOPE are
+             "Link", "Site", and "Organization".                     -->
+        <IPV6_MULTICAST_SCOPE VALUE="Site"/>
+        <!-- MULTICAST_TTL may have any value between 1 and 255.     -->
+        <MULTICAST_TTL VALUE="255"/>
+      </SET_FEDERATION_MULTICAST>
+    </RIB_INFO>
+  </LOGIN>
+</RIBCL>

@@ -1,0 +1,58 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2015,2017 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to write Hard Drive   -->
+<!--                 Zoning Information to XL servers that           -->
+<!--                   support hard drive zoning                     -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 4 - 2.10 and newer.                              -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="administrator" PASSWORD="password">
+	<HARD_DRIVE_ZONE MODE="write">
+           <WRITE_ZONE_TABLE>
+	     <TYPE_ID value="1"/>
+             <SEP_NODE_ID value="0"/>
+             <HOST_PORT value="1"/>
+              <BAY value="1"/>
+              <BAY value="2"/>
+              <BAY value="3"/>
+              <BAY value="4"/>
+              <BAY value="5"/>
+              <BAY value="6"/>
+             <HOST_PORT value="2"/>
+              <BAY value="7"/>
+              <BAY value="8"/>
+              <BAY value="9"/>
+              <BAY value="10"/>
+              <BAY value="11"/>
+              <BAY value="12"/>
+             <HOST_PORT value="3"/>
+              <BAY value="13"/>
+              <BAY value="14"/>
+              <BAY value="15"/>
+              <BAY value="16"/>
+              <BAY value="17"/>
+              <BAY value="18"/>
+             <HOST_PORT value="4"/>
+              <BAY value="19"/>
+              <BAY value="20"/>
+              <BAY value="21"/>
+              <BAY value="22"/>
+              <BAY value="23"/>
+              <BAY value="24"/>
+	   </WRITE_ZONE_TABLE>
+	</HARD_DRIVE_ZONE>
+   </LOGIN>
+</RIBCL>

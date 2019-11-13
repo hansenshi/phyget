@@ -1,0 +1,48 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2003,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to update the         -->
+<!--               Integrated Lights-Out(iLO) firmware.              -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment and you will need to change the value of the -->
+<!--        IMAGE_LOCATION to point to the new binary firmware image -->
+<!--        you wish to use for the firmware update.                 -->
+<!--        The Unit ID light flashes when the server is engaged in  -->
+
+<!--        an activity that can not or should not be interrupted    -->
+<!--        (such as updating iLO firmware or an active Remote       -->
+<!--        Console session).  The Unit ID light should flash while  -->
+<!--        this script is updating the firmware.                    -->
+<!--        The Lights-Out device will automatically reset itself to -->
+<!--        have the new firmware take effect at the end of the      -->
+<!--        firmware flash.                                          -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - All versions                                 -->
+<!--            iLO 3 - All versions                                 -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+      <RIB_INFO MODE="write">
+         <!--  Firmware support information for next tag:            -->
+         <!--  iLO 5 - All versions. For servers with TPM enabled.   -->
+         <!--  iLO 4 - All versions. For servers with TPM enabled.   -->
+         <!--  iLO 3 - All versions. For servers with TPM enabled.   -->
+         <TPM_ENABLED VALUE="Yes"/>
+<!--  NOTE: iLO 4 v1.30 onwards and iLO 5 onwards.                   -->
+<!--         Change UPDATE_RIB_FIRMWARE (for flashing iLO firmware)  -->
+<!--         with UPDATE_FIRMWARE for flashing ROM, Power PIC and    -->
+<!--         CPLD firmware.                                          -->
+         <UPDATE_RIB_FIRMWARE IMAGE_LOCATION="D:\D_drive_backup\Images\ilo4_100_p90_checked.bin"/>
+      </RIB_INFO>
+   </LOGIN>
+</RIBCL>

@@ -1,0 +1,1646 @@
+                                                                                                                                                          Please wait while the Hardware Inventory is being fetched. Depending on the network speed, 
+it may take sometime to complete this operation.
+
+
+-------------------------HARDWARE INVENTORY------------------------
+
+[InstanceID: RAID.Integrated.1-1]
+Device Type = Controller
+LastUpdateTime = 2019-11-02T18:33:34
+LastSystemInventoryTime = 2019-11-02T18:33:34
+RealtimeCapability = Capable
+SupportControllerBootMode = Supported
+SupportEnhancedAutoForeignImport = Supported
+MaxAvailablePCILinkSpeed = Generation 3
+MaxPossiblePCILinkSpeed = Generation 3
+PatrolReadState = Stopped
+DriverVersion = --NA--
+CacheSizeInMB = 2048 MB
+SupportRAID10UnevenSpans = Supported
+T10PICapability = Supported
+SlicedVDCapability = Sliced Virtual Disk creation supported
+CachecadeCapability = Cachecade Virtual Disk not supported
+EncryptionCapability = Local Key Management Capable
+EncryptionMode = None
+SecurityStatus = Encryption Capable
+SASAddress = 51866DA0AD17B700
+ProductName = PERC H730P Mini
+DeviceCardSlotType = Unknown
+DeviceCardSlotLength = Unknown
+DeviceCardDataBusWidth = Unknown
+DeviceCardManufacturer = DELL
+PCISubDeviceID = 1F47
+PCIDeviceID = 5D
+PCISubVendorID = 1028
+PCIVendorID = 1000
+Function = 0
+Device = 0
+Bus = 2
+ControllerFirmwareVersion = 25.5.0.0018
+PCISlot = 0
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Integrated RAID Controller 1
+FQDD = RAID.Integrated.1-1
+InstanceID = RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: AHCI.Embedded.1-1]
+Device Type = Controller
+LastUpdateTime = 2017-05-04T05:07:07
+LastSystemInventoryTime = 2017-05-04T08:03:58
+RealtimeCapability = Incapable
+SupportControllerBootMode = Not Supported
+SupportEnhancedAutoForeignImport = Not supported
+MaxAvailablePCILinkSpeed = Not Applicable
+MaxPossiblePCILinkSpeed = Not Applicable
+PatrolReadState = Unknown
+DriverVersion = Not Applicable
+CacheSizeInMB = 0 MB
+SupportRAID10UnevenSpans = Not supported
+T10PICapability = Not supported
+SlicedVDCapability = Sliced Virtual Disk creation not supported
+CachecadeCapability = Cachecade Virtual Disk not supported
+EncryptionCapability = None
+EncryptionMode = None
+SecurityStatus = Unknown
+SASAddress = Not Applicable
+ProductName = C610/X99 series chipset sSATA Controller [AHCI mode]
+DeviceCardSlotType = Unknown
+DeviceCardSlotLength = Unknown
+DeviceCardDataBusWidth = Unknown
+DeviceCardManufacturer = DELL
+PCISubDeviceID = 600
+PCIDeviceID = 8D62
+PCISubVendorID = 1028
+PCIVendorID = 8086
+Function = 0
+Device = 0
+Bus = 0
+PCISlot = 0
+RollupStatus = Unknown
+PrimaryStatus = Unknown
+DeviceDescription = Embedded AHCI 1
+FQDD = AHCI.Embedded.1-1
+InstanceID = AHCI.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: AHCI.Embedded.2-1]
+Device Type = Controller
+LastUpdateTime = 2017-05-04T05:07:07
+LastSystemInventoryTime = 2017-05-04T08:03:58
+RealtimeCapability = Incapable
+SupportControllerBootMode = Not Supported
+SupportEnhancedAutoForeignImport = Not supported
+MaxAvailablePCILinkSpeed = Not Applicable
+MaxPossiblePCILinkSpeed = Not Applicable
+PatrolReadState = Unknown
+DriverVersion = Not Applicable
+CacheSizeInMB = 0 MB
+SupportRAID10UnevenSpans = Not supported
+T10PICapability = Not supported
+SlicedVDCapability = Sliced Virtual Disk creation not supported
+CachecadeCapability = Cachecade Virtual Disk not supported
+EncryptionCapability = None
+EncryptionMode = None
+SecurityStatus = Unknown
+SASAddress = Not Applicable
+ProductName = C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+DeviceCardSlotType = Unknown
+DeviceCardSlotLength = Unknown
+DeviceCardDataBusWidth = Unknown
+DeviceCardManufacturer = DELL
+PCISubDeviceID = 600
+PCIDeviceID = 8D02
+PCISubVendorID = 1028
+PCIVendorID = 8086
+Function = 0
+Device = 0
+Bus = 0
+PCISlot = 0
+RollupStatus = Unknown
+PrimaryStatus = Unknown
+DeviceDescription = Embedded AHCI 2
+FQDD = AHCI.Embedded.2-1
+InstanceID = AHCI.Embedded.2-1
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A1]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E0E3
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A1
+FQDD = DIMM.Socket.A1
+InstanceID = DIMM.Socket.A1
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A2]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E180
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A2
+FQDD = DIMM.Socket.A2
+InstanceID = DIMM.Socket.A2
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A3]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E0E6
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A3
+FQDD = DIMM.Socket.A3
+InstanceID = DIMM.Socket.A3
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A4]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E0E7
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A4
+FQDD = DIMM.Socket.A4
+InstanceID = DIMM.Socket.A4
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A5]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E155
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A5
+FQDD = DIMM.Socket.A5
+InstanceID = DIMM.Socket.A5
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A6]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E19D
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A6
+FQDD = DIMM.Socket.A6
+InstanceID = DIMM.Socket.A6
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A7]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E1B2
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A7
+FQDD = DIMM.Socket.A7
+InstanceID = DIMM.Socket.A7
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.A8]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E194
+Manufacturer = Hynix Semiconductor
+BankLabel = A
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM A8
+FQDD = DIMM.Socket.A8
+InstanceID = DIMM.Socket.A8
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B1]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E0AF
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B1
+FQDD = DIMM.Socket.B1
+InstanceID = DIMM.Socket.B1
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B2]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E1C5
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B2
+FQDD = DIMM.Socket.B2
+InstanceID = DIMM.Socket.B2
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B3]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E137
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B3
+FQDD = DIMM.Socket.B3
+InstanceID = DIMM.Socket.B3
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B4]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E118
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B4
+FQDD = DIMM.Socket.B4
+InstanceID = DIMM.Socket.B4
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B5]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E14E
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B5
+FQDD = DIMM.Socket.B5
+InstanceID = DIMM.Socket.B5
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B6]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E158
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B6
+FQDD = DIMM.Socket.B6
+InstanceID = DIMM.Socket.B6
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B7]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E0ED
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B7
+FQDD = DIMM.Socket.B7
+InstanceID = DIMM.Socket.B7
+-------------------------------------------------------------------
+
+[InstanceID: DIMM.Socket.B8]
+Device Type = Memory
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Rank = Double Rank
+PrimaryStatus = OK
+ManufactureDate = Mon Apr 10 07:00:00 2017 UTC
+Model = DDR4 DIMM
+PartNumber = HMA82GR7AFR8N-UH
+SerialNumber = 1174E124
+Manufacturer = Hynix Semiconductor
+BankLabel = B
+Size = 16384 MB
+CurrentOperatingSpeed = 2133 MHz
+Speed = 2400 MHz
+MemoryType = DDR-4
+DeviceDescription = DIMM B8
+FQDD = DIMM.Socket.B8
+InstanceID = DIMM.Socket.B8
+-------------------------------------------------------------------
+
+[InstanceID: RAID.Integrated.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-13T15:18:38
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = PERC H730P Mini
+Manufacturer = LSI Logic / Symbios Logic
+PCISubDeviceID = 1F47
+PCISubVendorID = 1028
+PCIDeviceID = 005D
+PCIVendorID = 1000
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 2
+DeviceDescription = Integrated RAID Controller 1
+FQDD = RAID.Integrated.1-1
+InstanceID = RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-13T15:18:38
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Gigabit 4P I350-t rNDC
+Manufacturer = Intel Corporation
+PCISubDeviceID = 1F60
+PCISubVendorID = 1028
+PCIDeviceID = 1521
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 1
+DeviceDescription = Integrated NIC 1 Port 1 Partition 1
+FQDD = NIC.Integrated.1-1-1
+InstanceID = NIC.Integrated.1-1-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-2-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-13T15:18:38
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Gigabit 4P I350-t rNDC
+Manufacturer = Intel Corporation
+PCISubDeviceID = 1F60
+PCISubVendorID = 1028
+PCIDeviceID = 1521
+PCIVendorID = 8086
+FunctionNumber = 1
+DeviceNumber = 0
+BusNumber = 1
+DeviceDescription = Integrated NIC 1 Port 2 Partition 1
+FQDD = NIC.Integrated.1-2-1
+InstanceID = NIC.Integrated.1-2-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-3-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-13T15:18:38
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Gigabit 4P I350-t rNDC
+Manufacturer = Intel Corporation
+PCISubDeviceID = 1F60
+PCISubVendorID = 1028
+PCIDeviceID = 1521
+PCIVendorID = 8086
+FunctionNumber = 2
+DeviceNumber = 0
+BusNumber = 1
+DeviceDescription = Integrated NIC 1 Port 3 Partition 1
+FQDD = NIC.Integrated.1-3-1
+InstanceID = NIC.Integrated.1-3-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-4-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-10T21:35:29
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Gigabit 4P I350-t rNDC
+Manufacturer = Intel Corporation
+PCISubDeviceID = 1F60
+PCISubVendorID = 1028
+PCIDeviceID = 1521
+PCIVendorID = 8086
+FunctionNumber = 3
+DeviceNumber = 0
+BusNumber = 1
+DeviceDescription = Integrated NIC 1 Port 4 Partition 1
+FQDD = NIC.Integrated.1-4-1
+InstanceID = NIC.Integrated.1-4-1
+-------------------------------------------------------------------
+
+[InstanceID: Video.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = G200eR2
+Manufacturer = Matrox Electronics Systems Ltd.
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 0534
+PCIVendorID = 102B
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 9
+DeviceDescription = Embedded Video Controller 1
+FQDD = Video.Embedded.1-1
+InstanceID = Video.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: AHCI.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset sSATA Controller [AHCI mode]
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D62
+PCIVendorID = 8086
+FunctionNumber = 4
+DeviceNumber = 23
+BusNumber = 0
+DeviceDescription = Embedded AHCI 1
+FQDD = AHCI.Embedded.1-1
+InstanceID = AHCI.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: HostBridge.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Terminator 2x/i
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0000
+PCISubVendorID = 8086
+PCIDeviceID = 6F00
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 0
+DeviceDescription = Embedded Host Bridge 1
+FQDD = HostBridge.Embedded.1-1
+InstanceID = HostBridge.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = SH7758 PCIe Switch [PS]
+Manufacturer = Renesas Technology Corp.
+PCISubDeviceID = 001D
+PCISubVendorID = 1912
+PCIDeviceID = 001D
+PCIVendorID = 1912
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 6
+DeviceDescription = Embedded P2P Bridge 1-1
+FQDD = P2PBridge.Embedded.1-1
+InstanceID = P2PBridge.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: USBEHCI.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset USB Enhanced Host Controller #1
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D26
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 29
+BusNumber = 0
+DeviceDescription = Embedded USB EHCI 1
+FQDD = USBEHCI.Embedded.1-1
+InstanceID = USBEHCI.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: ISABridge.Embedded.1-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset LPC Controller
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D44
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 31
+BusNumber = 0
+DeviceDescription = Embedded ISA Bridge 1
+FQDD = ISABridge.Embedded.1-1
+InstanceID = ISABridge.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: AHCI.Embedded.2-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D02
+PCIVendorID = 8086
+FunctionNumber = 2
+DeviceNumber = 49
+BusNumber = 0
+DeviceDescription = Embedded AHCI 2
+FQDD = AHCI.Embedded.2-1
+InstanceID = AHCI.Embedded.2-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.2-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Terminator 2x/i
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0000
+PCISubVendorID = 8086
+PCIDeviceID = 6F02
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 1
+BusNumber = 0
+DeviceDescription = Embedded P2P Bridge 2-1
+FQDD = P2PBridge.Embedded.2-1
+InstanceID = P2PBridge.Embedded.2-1
+-------------------------------------------------------------------
+
+[InstanceID: USBEHCI.Embedded.2-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset USB Enhanced Host Controller #2
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D2D
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 26
+BusNumber = 0
+DeviceDescription = Embedded USB EHCI 2
+FQDD = USBEHCI.Embedded.2-1
+InstanceID = USBEHCI.Embedded.2-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.2-2]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = SH7758 PCIe Switch [PS]
+Manufacturer = Renesas Technology Corp.
+PCISubDeviceID = 001D
+PCISubVendorID = 1912
+PCIDeviceID = 001D
+PCIVendorID = 1912
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 7
+DeviceDescription = Embedded P2P Bridge 2-2
+FQDD = P2PBridge.Embedded.2-2
+InstanceID = P2PBridge.Embedded.2-2
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.4-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Terminator 2x/i
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0000
+PCISubVendorID = 8086
+PCIDeviceID = 6F04
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 2
+BusNumber = 0
+DeviceDescription = Embedded P2P Bridge 4-1
+FQDD = P2PBridge.Embedded.4-1
+InstanceID = P2PBridge.Embedded.4-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.4-2]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = SH7758 PCIe-PCI Bridge [PPB]
+Manufacturer = Renesas Technology Corp.
+PCISubDeviceID = 001A
+PCISubVendorID = 1912
+PCIDeviceID = 001A
+PCIVendorID = 1912
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 8
+DeviceDescription = Embedded P2P Bridge 4-2
+FQDD = P2PBridge.Embedded.4-2
+InstanceID = P2PBridge.Embedded.4-2
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.8-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = Terminator 2x/i
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0000
+PCISubVendorID = 8086
+PCIDeviceID = 6F08
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 3
+BusNumber = 0
+DeviceDescription = Embedded P2P Bridge 8-1
+FQDD = P2PBridge.Embedded.8-1
+InstanceID = P2PBridge.Embedded.8-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.5-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset PCI Express Root Port #1
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D10
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 28
+BusNumber = 0
+DeviceDescription = Embedded P2P Bridge 5-1
+FQDD = P2PBridge.Embedded.5-1
+InstanceID = P2PBridge.Embedded.5-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.12-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = C610/X99 series chipset PCI Express Root Port #8
+Manufacturer = Intel Corporation
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 8D1E
+PCIVendorID = 8086
+FunctionNumber = 7
+DeviceNumber = 28
+BusNumber = 0
+DeviceDescription = Embedded P2P Bridge 12-1
+FQDD = P2PBridge.Embedded.12-1
+InstanceID = P2PBridge.Embedded.12-1
+-------------------------------------------------------------------
+
+[InstanceID: P2PBridge.Embedded.3-1]
+Device Type = PCIDevice
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = SH7758 PCIe Switch [PS]
+Manufacturer = Renesas Technology Corp.
+PCISubDeviceID = 001D
+PCISubVendorID = 1912
+PCIDeviceID = 001D
+PCIVendorID = 1912
+FunctionNumber = 0
+DeviceNumber = 1
+BusNumber = 7
+DeviceDescription = Embedded P2P Bridge 3-1
+FQDD = P2PBridge.Embedded.3-1
+InstanceID = P2PBridge.Embedded.3-1
+-------------------------------------------------------------------
+
+[InstanceID: System.Embedded.1]
+Device Type = System
+LastUpdateTime = 2017-05-04T05:10:09
+LastSystemInventoryTime = 2017-05-13T15:33:56
+EstimatedExhaustTemperature = 34 Degree C
+EstimatedSystemAirflow = 27 CFM
+LicensingRollupStatus = OK
+StorageRollupStatus = OK
+RollupStatus = OK
+MemoryRollupStatus = OK
+TempStatisticsRollupStatus = OK
+CurrentRollupStatus = OK
+BatteryRollupStatus = OK
+FanRollupStatus = OK
+IntrusionRollupStatus = OK
+VoltRollupStatus = OK
+TempRollupStatus = OK
+PSRollupStatus = OK
+CPURollupStatus = OK
+PopulatedPCIeSlots = 0
+MaxPCIeSlots = 6
+PopulatedCPUSockets = 2
+MaxCPUSockets = 2
+PrimaryStatus = OK
+BladeGeometry = Unknown
+CPLDVersion = 1.0.1
+BoardPartNumber = 0WCJNTA06
+BoardSerialNumber = CNWS30073I001N
+ChassisName = Main System Chassis
+PowerCap = 476 Watts
+PowerCapEnabledState = Disabled
+PowerState = On
+BaseBoardChassisSlot = NA
+PopulatedDIMMSlots = 16
+MemoryOperationMode = OptimizerMode
+SysMemFailOverState = NotInUse
+SysMemPrimaryStatus = OK
+HostName = MINWINPC
+UUID = 4c4c4544-0046-5a10-804a-b2c04f354b32
+smbiosGUID = 44454c4c-4600-105a-804a-b2c04f354b32
+PlatformGUID = 324b354f-c0b2-4a80-5a10-00464c4c4544
+SystemID = 1536
+BIOSReleaseDate = 01/17/2017
+BIOSVersionString = 2.4.3
+MaxDIMMSlots = 24
+SysMemErrorMethodology = Multi-bit ECC
+SysMemLocation = System board or motherboard
+SysMemMaxCapacitySize = 3145728 MB
+SysMemTotalSize = 262144 MB
+ChassisSystemHeight = 2U
+NodeID = 2FZJ5K2
+ChassisServiceTag = 2FZJ5K2
+ExpressServiceCode = 5320237538
+ServiceTag = 2FZJ5K2
+Manufacturer = Dell Inc.
+Model = PowerEdge R730
+LifecycleControllerVersion = 2.43.43.43
+SystemGeneration = 13G Monolithic
+DeviceDescription = System
+FQDD = System.Embedded.1
+InstanceID = System.Embedded.1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-4-1]
+Device Type = NIC
+LastUpdateTime = 2017-05-10T22:35:29
+LastSystemInventoryTime = 2017-05-10T21:35:42
+Protocol = NIC
+MediaType = Base T
+ReceiveFlowControl = Off
+TransmitFlowControl = Off
+AutoNegotiation = Enabled
+LinkSpeed = Unknown
+LinkDuplex = Unknown
+VendorName = Intel Corp
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+PCISubDeviceID = 1f60
+PCIDeviceID = 1521
+PCISubVendorID = 1028
+PCIVendorID = 8086
+FunctionNumber = 3
+DeviceNumber = 0
+BusNumber = 1
+PermanentMACAddress = 24:6E:96:5B:04:57
+CurrentMACAddress = 24:6E:96:5B:04:57
+ProductName = Intel(R) Gigabit 4P I350-t rNDC - 24:6E:96:5B:04:57
+EFIVersion = 7.1.7
+FamilyVersion = 17.5.10
+MinBandwidth = 0
+MaxBandwidth = 0
+iScsiOffloadMode = Disabled
+FCoEOffloadMode = Disabled
+NicMode = Disabled
+DeviceDescription = Integrated NIC 1 Port 4 Partition 1
+FQDD = NIC.Integrated.1-4-1
+InstanceID = NIC.Integrated.1-4-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-1-1]
+Device Type = NIC
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+Protocol = NIC
+MediaType = Base T
+ReceiveFlowControl = On
+TransmitFlowControl = Off
+AutoNegotiation = Enabled
+LinkSpeed = 1000 Mbps
+LinkDuplex = Full Duplex
+VendorName = Intel Corp
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+PCISubDeviceID = 1f60
+PCIDeviceID = 1521
+PCISubVendorID = 1028
+PCIVendorID = 8086
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 1
+PermanentMACAddress = 24:6E:96:5B:04:54
+CurrentMACAddress = 24:6E:96:5B:04:54
+ProductName = Intel(R) Gigabit 4P I350-t rNDC - 24:6E:96:5B:04:54
+EFIVersion = 7.1.7
+FamilyVersion = 17.5.10
+MinBandwidth = 0
+MaxBandwidth = 0
+iScsiOffloadMode = Disabled
+FCoEOffloadMode = Disabled
+NicMode = Disabled
+DeviceDescription = Integrated NIC 1 Port 1 Partition 1
+FQDD = NIC.Integrated.1-1-1
+InstanceID = NIC.Integrated.1-1-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-2-1]
+Device Type = NIC
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+Protocol = NIC
+MediaType = Base T
+ReceiveFlowControl = On
+TransmitFlowControl = Off
+AutoNegotiation = Enabled
+LinkSpeed = 1000 Mbps
+LinkDuplex = Full Duplex
+VendorName = Intel Corp
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+PCISubDeviceID = 1f60
+PCIDeviceID = 1521
+PCISubVendorID = 1028
+PCIVendorID = 8086
+FunctionNumber = 1
+DeviceNumber = 0
+BusNumber = 1
+PermanentMACAddress = 24:6E:96:5B:04:55
+CurrentMACAddress = 24:6E:96:5B:04:55
+ProductName = Intel(R) Gigabit 4P I350-t rNDC - 24:6E:96:5B:04:55
+EFIVersion = 7.1.7
+FamilyVersion = 17.5.10
+MinBandwidth = 0
+MaxBandwidth = 0
+iScsiOffloadMode = Disabled
+FCoEOffloadMode = Disabled
+NicMode = Disabled
+DeviceDescription = Integrated NIC 1 Port 2 Partition 1
+FQDD = NIC.Integrated.1-2-1
+InstanceID = NIC.Integrated.1-2-1
+-------------------------------------------------------------------
+
+[InstanceID: NIC.Integrated.1-3-1]
+Device Type = NIC
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+Protocol = NIC
+MediaType = Base T
+ReceiveFlowControl = On
+TransmitFlowControl = Off
+AutoNegotiation = Enabled
+LinkSpeed = 1000 Mbps
+LinkDuplex = Full Duplex
+VendorName = Intel Corp
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+PCISubDeviceID = 1f60
+PCIDeviceID = 1521
+PCISubVendorID = 1028
+PCIVendorID = 8086
+FunctionNumber = 2
+DeviceNumber = 0
+BusNumber = 1
+PermanentMACAddress = 24:6E:96:5B:04:56
+CurrentMACAddress = 24:6E:96:5B:04:56
+ProductName = Intel(R) Gigabit 4P I350-t rNDC - 24:6E:96:5B:04:56
+EFIVersion = 7.1.7
+FamilyVersion = 17.5.10
+MinBandwidth = 0
+MaxBandwidth = 0
+iScsiOffloadMode = Disabled
+FCoEOffloadMode = Disabled
+NicMode = Disabled
+DeviceDescription = Integrated NIC 1 Port 3 Partition 1
+FQDD = NIC.Integrated.1-3-1
+InstanceID = NIC.Integrated.1-3-1
+-------------------------------------------------------------------
+
+[InstanceID: Battery.Integrated.1:RAID.Integrated.1-1]
+Device Type = ControllerBattery
+RAIDState = Ready
+PrimaryStatus = OK
+DeviceDescription = Battery on Integrated RAID Controller 1
+FQDD = Battery.Integrated.1:RAID.Integrated.1-1
+InstanceID = Battery.Integrated.1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: Video.Embedded.1-1]
+Device Type = Video
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+SlotType = Unknown
+SlotLength = Unknown
+DataBusWidth = Unknown
+Description = G200eR2
+Manufacturer = Matrox Electronics Systems Ltd.
+PCISubDeviceID = 0600
+PCISubVendorID = 1028
+PCIDeviceID = 0534
+PCIVendorID = 102B
+FunctionNumber = 0
+DeviceNumber = 0
+BusNumber = 9
+DeviceDescription = Embedded Video Controller 1
+FQDD = Video.Embedded.1-1
+InstanceID = Video.Embedded.1-1
+-------------------------------------------------------------------
+
+[InstanceID: PSU.Slot.1]
+Device Type = PowerSupply
+LastUpdateTime = 2019-11-06T16:45:51
+LastSystemInventoryTime = 2017-05-13T15:33:56
+PMBusMonitoring = 1
+Range1MaxInputPower = 594
+RedMinNumberNeeded = 1
+RedundancyStatus = Unknown
+Type = AC
+PrimaryStatus = OK
+TotalOutputPower = 495 Watts
+InputVoltage = 220 Volts
+FirmwareVersion = 00.16.4F
+DetailedState = Presence Detected
+Manufacturer = Dell
+PartNumber = 0TH1CTA01
+SerialNumber = PHARP0073B00EN
+Model = PWR SPLY,495W,RDNT,ARTESYN    
+DeviceDescription = Power Supply 1
+FQDD = PSU.Slot.1
+InstanceID = PSU.Slot.1
+-------------------------------------------------------------------
+
+[InstanceID: PSU.Slot.2]
+Device Type = PowerSupply
+LastUpdateTime = 2019-11-06T16:45:51
+LastSystemInventoryTime = 2017-05-13T15:33:56
+PMBusMonitoring = 1
+Range1MaxInputPower = 594
+RedMinNumberNeeded = 1
+RedundancyStatus = Unknown
+Type = AC
+PrimaryStatus = OK
+TotalOutputPower = 495 Watts
+InputVoltage = 220 Volts
+FirmwareVersion = 00.16.4F
+DetailedState = Presence Detected
+Manufacturer = Dell
+PartNumber = 0TH1CTA01
+SerialNumber = PHARP0073B00EJ
+Model = PWR SPLY,495W,RDNT,ARTESYN    
+DeviceDescription = Power Supply 2
+FQDD = PSU.Slot.2
+InstanceID = PSU.Slot.2
+-------------------------------------------------------------------
+
+[InstanceID: Disk.Bay.0:Enclosure.Internal.0-1:RAID.Integrated.1-1]
+Device Type = PhysicalDisk
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+RemainingRatedWriteEndurance = Unknown
+OperationPercentComplete = 0%
+OperationName = None
+DriveFormFactor = 2.5 inch
+PPID = TH09XNF6HGT0073S7SXDA01
+SASAddress = 5000CCA08050F0C9
+MaxCapableSpeed = 12Gbs
+UsedSizeInBytes = 1199638052864 Bytes
+FreeSizeInBytes = 0 Bytes
+MediaType = HDD
+BlockSizeInBytes = 512 Bytes
+T10PICapability = Not supported
+SecurityState = Not Capable
+PredictiveFailureState = Smart Alert Absent
+HotSpareStatus = No
+BusProtocol = SAS
+SerialNumber = 0EHEHYDH
+Revision = FJ23
+ManufacturingYear = 2017
+ManufacturingWeek = 13
+ManufacturingDay = 3
+Manufacturer = HGST
+Model = HUC101812CSS204
+SizeInBytes = 1199638052864 Bytes
+Slot = 0
+Connector = 0
+RaidStatus = Online
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Disk 0 in Backplane 1 of Integrated RAID Controller 1
+FQDD = Disk.Bay.0:Enclosure.Internal.0-1:RAID.Integrated.1-1
+InstanceID = Disk.Bay.0:Enclosure.Internal.0-1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: Disk.Bay.1:Enclosure.Internal.0-1:RAID.Integrated.1-1]
+Device Type = PhysicalDisk
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+RemainingRatedWriteEndurance = Unknown
+OperationPercentComplete = 0%
+OperationName = None
+DriveFormFactor = 2.5 inch
+PPID = TH09XNF6HGT0073S7SWSA01
+SASAddress = 5000CCA08054F321
+MaxCapableSpeed = 12Gbs
+UsedSizeInBytes = 1199638052864 Bytes
+FreeSizeInBytes = 0 Bytes
+MediaType = HDD
+BlockSizeInBytes = 512 Bytes
+T10PICapability = Not supported
+SecurityState = Not Capable
+PredictiveFailureState = Smart Alert Absent
+HotSpareStatus = No
+BusProtocol = SAS
+SerialNumber = 0EHHR99H
+Revision = FJ23
+ManufacturingYear = 2017
+ManufacturingWeek = 13
+ManufacturingDay = 3
+Manufacturer = HGST
+Model = HUC101812CSS204
+SizeInBytes = 1199638052864 Bytes
+Slot = 1
+Connector = 0
+RaidStatus = Online
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Disk 1 in Backplane 1 of Integrated RAID Controller 1
+FQDD = Disk.Bay.1:Enclosure.Internal.0-1:RAID.Integrated.1-1
+InstanceID = Disk.Bay.1:Enclosure.Internal.0-1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: Disk.Bay.2:Enclosure.Internal.0-1:RAID.Integrated.1-1]
+Device Type = PhysicalDisk
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+RemainingRatedWriteEndurance = Unknown
+OperationPercentComplete = 0%
+OperationName = None
+DriveFormFactor = 2.5 inch
+PPID = TH09XNF6HGT0073S7SXAA01
+SASAddress = 5000CCA08052FDAD
+MaxCapableSpeed = 12Gbs
+UsedSizeInBytes = 1199638052864 Bytes
+FreeSizeInBytes = 0 Bytes
+MediaType = HDD
+BlockSizeInBytes = 512 Bytes
+T10PICapability = Not supported
+SecurityState = Not Capable
+PredictiveFailureState = Smart Alert Absent
+HotSpareStatus = No
+BusProtocol = SAS
+SerialNumber = 0EHGMX1H
+Revision = FJ23
+ManufacturingYear = 2017
+ManufacturingWeek = 13
+ManufacturingDay = 3
+Manufacturer = HGST
+Model = HUC101812CSS204
+SizeInBytes = 1199638052864 Bytes
+Slot = 2
+Connector = 0
+RaidStatus = Online
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Disk 2 in Backplane 1 of Integrated RAID Controller 1
+FQDD = Disk.Bay.2:Enclosure.Internal.0-1:RAID.Integrated.1-1
+InstanceID = Disk.Bay.2:Enclosure.Internal.0-1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: Disk.Bay.3:Enclosure.Internal.0-1:RAID.Integrated.1-1]
+Device Type = PhysicalDisk
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+RemainingRatedWriteEndurance = Unknown
+OperationPercentComplete = 0%
+OperationName = None
+DriveFormFactor = 2.5 inch
+PPID = TH09XNF6HGT0073S7SWRA01
+SASAddress = 5000CCA08050F3BD
+MaxCapableSpeed = 12Gbs
+UsedSizeInBytes = 1199638052864 Bytes
+FreeSizeInBytes = 0 Bytes
+MediaType = HDD
+BlockSizeInBytes = 512 Bytes
+T10PICapability = Not supported
+SecurityState = Not Capable
+PredictiveFailureState = Smart Alert Absent
+HotSpareStatus = No
+BusProtocol = SAS
+SerialNumber = 0EHEJ4HH
+Revision = FJ23
+ManufacturingYear = 2017
+ManufacturingWeek = 13
+ManufacturingDay = 3
+Manufacturer = HGST
+Model = HUC101812CSS204
+SizeInBytes = 1199638052864 Bytes
+Slot = 3
+Connector = 0
+RaidStatus = Online
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Disk 3 in Backplane 1 of Integrated RAID Controller 1
+FQDD = Disk.Bay.3:Enclosure.Internal.0-1:RAID.Integrated.1-1
+InstanceID = Disk.Bay.3:Enclosure.Internal.0-1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: iDRAC.Embedded.1-1#IDRACinfo]
+Device Type = iDRACCard
+LastUpdateTime = 2019-11-06T16:45:52
+LastSystemInventoryTime = 2017-05-13T15:33:56
+DNSRacName = idrac-2FZJ5K2
+SOLEnabledState = Enabled
+LANEnabledState = Enabled
+URLString = https://10.4.0.11:443
+GUID = 324b354f-c0b2-4a80-5a10-00464c4c4544
+PermanentMACAddress = 50:9a:4c:5c:c3:7f
+ProductDescription = This system component provides a complete set of remote management functions for Dell PowerEdge servers
+Model = Enterprise
+FirmwareVersion = 2.43.43.43
+IPMIVersion = 2.0
+DeviceDescription = iDRAC
+FQDD = iDRAC.Embedded.1-1
+InstanceID = iDRAC.Embedded.1-1#IDRACinfo
+-------------------------------------------------------------------
+
+[InstanceID: Disk.vFlashCard.1]
+Device Type = VFlash
+ComponentName = No SD Card
+DeviceDescription = vFlash Card
+FQDD = Disk.vFlashCard.1
+InstanceID = Disk.vFlashCard.1
+-------------------------------------------------------------------
+
+[InstanceID: Disk.Virtual.0:RAID.Integrated.1-1]
+Device Type = VirtualDisk
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+MediaType = HDD
+BusProtocol = SAS
+OperationPercentComplete = 0%
+OperationName = None
+T10PIStatus = Disabled
+LockStatus = Unlocked
+Cachecade = Not a Cachecade Virtual Disk
+StartingLBAinBlocks = 0
+ObjectStatus = Unknown
+DiskCachePolicy = Default
+RemainingRedundancy = 1
+VirtualDiskTargetID = 0
+SpanDepth = 1
+SpanLength = 4
+Name = Virtual Disk 0
+StripeSize = 64KB
+BlockSizeInBytes = 512 Bytes
+SizeInBytes = 3598914158592 Bytes
+WriteCachePolicy = Write Back
+ReadCachePolicy = Read Ahead
+RAIDStatus = Online
+RAIDTypes = RAID5
+RollupStatus = OK
+PrimaryStatus = OK
+DeviceDescription = Virtual Disk 0 on Integrated RAID Controller 1
+FQDD = Disk.Virtual.0:RAID.Integrated.1-1
+InstanceID = Disk.Virtual.0:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.1]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:53
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3960 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 1
+FQDD = Fan.Embedded.1
+InstanceID = Fan.Embedded.1
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.2]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:53
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3840 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 2
+FQDD = Fan.Embedded.2
+InstanceID = Fan.Embedded.2
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.3]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:54
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3960 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 3
+FQDD = Fan.Embedded.3
+InstanceID = Fan.Embedded.3
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.4]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:54
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3840 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 4
+FQDD = Fan.Embedded.4
+InstanceID = Fan.Embedded.4
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.5]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:54
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3960 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 5
+FQDD = Fan.Embedded.5
+InstanceID = Fan.Embedded.5
+-------------------------------------------------------------------
+
+[InstanceID: Fan.Embedded.6]
+Device Type = Fan
+LastUpdateTime = 2019-11-06T16:45:54
+LastSystemInventoryTime = 2017-05-13T15:33:56
+RedundancyStatus = Fully Redundant
+ActiveCooling = true
+VariableSpeed = true
+PWM = 12%
+CurrentReading = 3960 RPM
+RateUnits = None
+UnitModifier = 0
+BaseUnits = RPM
+PrimaryStatus = OK
+DeviceDescription = Fan 6
+FQDD = Fan.Embedded.6
+InstanceID = Fan.Embedded.6
+-------------------------------------------------------------------
+
+[InstanceID: Enclosure.Internal.0-1:RAID.Integrated.1-1]
+Device Type = Enclosure
+LastUpdateTime = 2017-05-13T16:18:38
+LastSystemInventoryTime = 2017-05-13T15:18:48
+ProductName = BP13G+ 0:1
+TempProbeCount = 0
+FanCount = 0
+PSUCount = 0
+EMMCount = 0
+SlotCount = 8
+Version = 2.25
+WiredOrder = 1
+Connector = 0
+RollupStatus = OK
+State = Ready
+PrimaryStatus = OK
+DeviceDescription = Backplane 1 on Connector 0 of Integrated RAID Controller 1
+FQDD = Enclosure.Internal.0-1:RAID.Integrated.1-1
+InstanceID = Enclosure.Internal.0-1:RAID.Integrated.1-1
+-------------------------------------------------------------------
+
+[InstanceID: CPU.Socket.1]
+Device Type = CPU
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Cache3Location = Internal
+Cache2Location = Internal
+Cache1Location = Internal
+Cache3Associativity = 20-way Set-Associative
+Cache2Associativity = 8-way Set-Associative
+Cache1Associativity = 8-way Set-Associative
+Cache3Type = Unified
+Cache2Type = Unified
+Cache1Type = Unified
+Cache3ErrorMethodology = Single-bit ECC
+Cache2ErrorMethodology = Single-bit ECC
+Cache1ErrorMethodology = Parity
+Cache3SRAMType = Unknown
+Cache2SRAMType = Unknown
+Cache1SRAMType = Unknown
+Cache3WritePolicy = Write Back
+Cache2WritePolicy = Write Back
+Cache1WritePolicy = Write Back
+Cache3Level = L3
+Cache2Level = L2
+Cache1Level = L1
+Cache3PrimaryStatus = OK
+Cache2PrimaryStatus = OK
+Cache1PrimaryStatus = OK
+Cache3Size = 25600 KB
+Cache2Size = 2560 KB
+Cache1Size = 640 KB
+Model = Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz
+Manufacturer = Intel
+TurboModeCapable = Yes
+TurboModeEnabled = Yes
+ExecuteDisabledCapable = Yes
+ExecuteDisabledEnabled = Yes
+VirtualizationTechnologyCapable = Yes
+VirtualizationTechnologyEnabled = Yes
+HyperThreadingCapable = Yes
+HyperThreadingEnabled = Yes
+Characteristics = 64-bit Capable
+CPUStatus = CPU Enabled
+Voltage = 1.3V
+NumberOfProcessorCores = 10
+NumberOfEnabledThreads = 20
+NumberOfEnabledCores = 10
+PrimaryStatus = OK
+ExternalBusClockSpeed = 8000 MHz
+MaxClockSpeed = 4000 MHz
+CurrentClockSpeed = 2200 MHz
+CPUFamily = Intel(R) Xeon(TM)
+DeviceDescription = CPU 1
+FQDD = CPU.Socket.1
+InstanceID = CPU.Socket.1
+-------------------------------------------------------------------
+
+[InstanceID: CPU.Socket.2]
+Device Type = CPU
+LastUpdateTime = 2017-05-04T04:07:07
+LastSystemInventoryTime = 2017-05-13T15:33:56
+Cache3Location = Internal
+Cache2Location = Internal
+Cache1Location = Internal
+Cache3Associativity = 20-way Set-Associative
+Cache2Associativity = 8-way Set-Associative
+Cache1Associativity = 8-way Set-Associative
+Cache3Type = Unified
+Cache2Type = Unified
+Cache1Type = Unified
+Cache3ErrorMethodology = Single-bit ECC
+Cache2ErrorMethodology = Single-bit ECC
+Cache1ErrorMethodology = Parity
+Cache3SRAMType = Unknown
+Cache2SRAMType = Unknown
+Cache1SRAMType = Unknown
+Cache3WritePolicy = Write Back
+Cache2WritePolicy = Write Back
+Cache1WritePolicy = Write Back
+Cache3Level = L3
+Cache2Level = L2
+Cache1Level = L1
+Cache3PrimaryStatus = OK
+Cache2PrimaryStatus = OK
+Cache1PrimaryStatus = OK
+Cache3Size = 25600 KB
+Cache2Size = 2560 KB
+Cache1Size = 640 KB
+Model = Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz
+Manufacturer = Intel
+TurboModeCapable = Yes
+TurboModeEnabled = Yes
+ExecuteDisabledCapable = Yes
+ExecuteDisabledEnabled = Yes
+VirtualizationTechnologyCapable = Yes
+VirtualizationTechnologyEnabled = Yes
+HyperThreadingCapable = Yes
+HyperThreadingEnabled = Yes
+Characteristics = 64-bit Capable
+CPUStatus = CPU Enabled
+Voltage = 1.3V
+NumberOfProcessorCores = 10
+NumberOfEnabledThreads = 20
+NumberOfEnabledCores = 10
+PrimaryStatus = OK
+ExternalBusClockSpeed = 8000 MHz
+MaxClockSpeed = 4000 MHz
+CurrentClockSpeed = 2200 MHz
+CPUFamily = Intel(R) Xeon(TM)
+DeviceDescription = CPU 2
+FQDD = CPU.Socket.2
+InstanceID = CPU.Socket.2
+-------------------------------------------------------------------
+

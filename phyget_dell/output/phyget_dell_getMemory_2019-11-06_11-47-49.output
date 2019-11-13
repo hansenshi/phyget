@@ -1,0 +1,63 @@
+
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+  查询单项_getMemory
+
+  getMemory_10.4.0.11
+  PrimaryStatus = OK  SerialNumber = 1174E0E3  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A1
+  PrimaryStatus = OK  SerialNumber = 1174E180  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A2
+  PrimaryStatus = OK  SerialNumber = 1174E0E6  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A3
+  PrimaryStatus = OK  SerialNumber = 1174E0E7  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A4
+  PrimaryStatus = OK  SerialNumber = 1174E155  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A5
+  PrimaryStatus = OK  SerialNumber = 1174E19D  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A6
+  PrimaryStatus = OK  SerialNumber = 1174E1B2  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A7
+  PrimaryStatus = OK  SerialNumber = 1174E194  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.A8
+  PrimaryStatus = OK  SerialNumber = 1174E0AF  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B1
+  PrimaryStatus = OK  SerialNumber = 1174E1C5  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B2
+  PrimaryStatus = OK  SerialNumber = 1174E137  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B3
+  PrimaryStatus = OK  SerialNumber = 1174E118  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B4
+  PrimaryStatus = OK  SerialNumber = 1174E14E  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B5
+  PrimaryStatus = OK  SerialNumber = 1174E158  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B6
+  PrimaryStatus = OK  SerialNumber = 1174E0ED  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B7
+  PrimaryStatus = OK  SerialNumber = 1174E124  Size = 16384 MB  CurrentOperatingSpeed = 2133 MHz  MemoryType = DDR-4  InstanceID = DIMM.Socket.B8
+
+  <Sensor Name>                   <Status>    <State>             <lc>        <uc>        
+  DIMM A1                         Ok          Presence_Detected   NA          NA          
+  DIMM A2                         Ok          Presence_Detected   NA          NA          
+  DIMM A3                         Ok          Presence_Detected   NA          NA          
+  DIMM A4                         Ok          Presence_Detected   NA          NA          
+  DIMM A5                         Ok          Presence_Detected   NA          NA          
+  DIMM A6                         Ok          Presence_Detected   NA          NA          
+  DIMM A7                         Ok          Presence_Detected   NA          NA          
+  DIMM A8                         Ok          Presence_Detected   NA          NA          
+  DIMM A9                         N/A         Absent              NA          NA          
+  DIMM A10                        N/A         Absent              NA          NA          
+  DIMM A11                        N/A         Absent              NA          NA          
+  DIMM A12                        N/A         Absent              NA          NA          
+  DIMM B1                         Ok          Presence_Detected   NA          NA          
+  DIMM B2                         Ok          Presence_Detected   NA          NA          
+  DIMM B3                         Ok          Presence_Detected   NA          NA          
+  DIMM B4                         Ok          Presence_Detected   NA          NA          
+  DIMM B5                         Ok          Presence_Detected   NA          NA          
+  DIMM B6                         Ok          Presence_Detected   NA          NA          
+  DIMM B7                         Ok          Presence_Detected   NA          NA          
+  DIMM B8                         Ok          Presence_Detected   NA          NA          
+  DIMM B9                         N/A         Absent              NA          NA          
+  DIMM B10                        N/A         Absent              NA          NA          
+  DIMM B11                        N/A         Absent              NA          NA          
+  DIMM B12                        N/A         Absent              NA          NA          
+
+  getMemory_10.4.0.12
+  No PreInfo File, Please Exec [getpre]
+
+  getMemory_10.4.0.13
+  No PreInfo File, Please Exec [getpre]
+
+  getMemory_10.4.0.14
+  No PreInfo File, Please Exec [getpre]
+
+  getMemory_10.4.0.15
+  No PreInfo File, Please Exec [getpre]
+
+  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+

@@ -1,0 +1,52 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2003,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to import a signed    -->
+<!--               certificate into iLO.                             -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - All versions.                                -->
+<!--            iLO 3 - All versions.                                -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+      <RIB_INFO MODE="write">
+         <IMPORT_CERTIFICATE>
+            <!-- Replace the following text and comments with the certificate -->
+            <!-- INCLUDE the full header and full footer of the certificate   -->
+            <!-- For example:  -->
+-----BEGIN CERTIFICATE-----
+MIICzTCCAnegAwIBAgIJALwz9k7IGrBUMA0GCSqGSIb3DQEBBQUAMHoxCzAJBgNV
+BAYTAlVTMQ4wDAYDVQQIEwVUZXhhczEQMA4GA1UEBxMHSG91c3RvbjELMAkGA1UE
+ChMCSFAxCzAJBgNVBAsTAkhQMREwDwYDVQQDEwhjZXJ0VGVzdDEcMBoGCSqGSIb3
+DQEJARYNY2VydFRlc3QudGVzdDAeFw0xMTA4MDMxNTM4MTVaFw0xMTA4MTMxNTM4
+MTVaMHoxCzAJBgNVBAYTAlVTMQ4wDAYDVQQIEwVUZXhhczEQMA4GA1UEBxMHSG91
+c3RvbjELMAkGA1UEChMCSFAxCzAJBgNVBAsTAkhQMREwDwYDVQQDEwhjZXJ0VGVz
+dDEcMBoGCSqGSIb3DQEJARYNY2VydFRlc3QudGVzdDBcMA0GCSqGSIb3DQEBAQUA
+A0sAMEgCQQCiQ45JC5cof+wPwjvJGmLEoEafdMCGb6F2A3IOVicl2Asg06++Quz/
+m8tIzlKlSLI8fsOJx2IwfKpSZWdyLkA5AgMBAAGjgd8wgdwwHQYDVR0OBBYEFJML
++iloKY1hkOpGnfTUogdfXSoNMIGsBgNVHSMEgaQwgaGAFJML+iloKY1hkOpGnfTU
+ogdfXSoNoX6kfDB6MQswCQYDVQQGEwJVUzEOMAwGA1UECBMFVGV4YXMxEDAOBgNV
+BAcTB0hvdXN0b24xCzAJBgNVBAoTAkhQMQswCQYDVQQLEwJIUDERMA8GA1UEAxMI
+Y2VydFRlc3QxHDAaBgkqhkiG9w0BCQEWDWNlcnRUZXN0LnRlc3SCCQC8M/ZOyBqw
+VDAMBgNVHRMEBTADAQH/MA0GCSqGSIb3DQEBBQUAA0EAfV7lrSkzEUN3byI9mJVG
+DBADxOzUTIDDz1MdWzmhismEDqv2YMMmBjdrEMqdXLruHwVnxpy6H+1+25/9a3l7
+Lw==
+-----END CERTIFICATE-----
+         </IMPORT_CERTIFICATE>
+         <!-- The iLO will be reset after the certificate has been imported. -->
+         <RESET_RIB/>
+      </RIB_INFO>
+   </LOGIN>
+</RIBCL>

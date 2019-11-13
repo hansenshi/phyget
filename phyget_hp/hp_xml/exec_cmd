@@ -1,0 +1,51 @@
+perl locfg.pl -s $1 -u $User -p $Pass -f ADD_USER.xml -t User=admin1,username=admin1,password=Aa123456
+perl locfg.pl -s $1 -u $User -p $Pass -f MOD_USER.xml -t username=admin1,newpassword=Aa1234567
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_FANS.xml | sed -n '/<FANS>/,/<\/FANS>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_TEMPERATURES.xml | sed -n '/<TEMPERATURE>/,/<\/TEMPERATURE>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_PSU.xml | sed -n '/<POWER_SUPPLIES>/,/<\/POWER_SUPPLIES>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_VRM.xml
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Embedded_Health_CPU.xml | sed -n '/<PROCESSORS>/,/<\/PROCESSORS>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_MEMORY.xml | sed -n '/<MEMORY>/,/<\/MEMORY>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_NICS.xml | sed -n '/<NIC_INFORMATION>/,/<\/NIC_INFORMATION>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_EMBEDDED_HEALTH_STORAGE.xml | sed -n '/<STORAGE>/,/<\/STORAGE>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Embedded_Health_Astatus.xml | sed -n '/<HEALTH_AT_A_GLANCE>/,/<\/HEALTH_AT_A_GLANCE>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Embedded_Health_Firmware.xml | sed -n '/<FIRMWARE_INFORMATION>/,/<\/FIRMWARE_INFORMATION>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Global.xml | sed -n '/<GET_GLOBAL_SETTINGS>/,/<\/GET_GLOBAL_SETTINGS>/p' | sed s@/@@g 
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Network.xml | sed -n '/<GET_NETWORK_SETTINGS>/,/<\/GET_NETWORK_SETTINGS>/p' | sed s@/@@g
+
+problem: perl locfg.pl -s $1 -u $User -p $Pass -f Get_Persistent_Boot_Order.xml
+
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_SNMP_IM.xml | grep 'SNMP_ADDRESS_1_ROCOMMUNITY'
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Host_Power_Saver.xml | grep -A 1 GET_HOST_POWER_SAVER | grep -v 'GET_HOST_POWER_SAVER'
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Power_Readings.xml | sed -n '/<GET_POWER_READINGS>/,/<\/GET_POWER_READINGS>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f Get_Current_Boot_Mode.xml | sed -n '/<GET_CURRENT_BOOT_MODE>/,/<\/GET_CURRENT_BOOT_MODE>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_PERSISTENT_BOOT.xml |sed -n '/<PERSISTENT_BOOT>/,/<\/PERSISTENT_BOOT>/p' | sed s@/@@g
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_NETWORK_SETTINGS.xml
+    <DHCP_SNTP_SETTINGS VALUE="N"/>
+    <DHCPV6_SNTP_SETTINGS VALUE="Y"/>
+    <SNTP_SERVER1 VALUE=""/>
+    <SNTP_SERVER2 VALUE=""/>
+
+
+perl locfg.pl -s 10.4.0.62 -u $User -p $Pass -f GET_SNMP_IM_SETTINGS.xml  | grep COMMUNITY
+    <SNMP_ADDRESS_1_ROCOMMUNITY VALUE="HrpVe7"/>
+    <SNMP_ADDRESS_1_TRAPCOMMUNITY VERSION="" VALUE=""/>
+    <SNMP_ADDRESS_2_ROCOMMUNITY VALUE=""/>
+    <SNMP_ADDRESS_2_TRAPCOMMUNITY VERSION="" VALUE=""/>
+    <SNMP_ADDRESS_3_ROCOMMUNITY VALUE=""/>
+    <SNMP_ADDRESS_3_TRAPCOMMUNITY VERSION="" VALUE=""/>
+[root@net-ops018187 hp_xml]# 
+
+perl locfg.pl -s 10.4.0.62 -u $User -p $Pass -f GET_SNMP_IM_SETTINGS.xml  | grep ACCE
+<SNMP_ACCESS VALUE="Enable"/>
+
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_HOST_POWER_STATUS.xml | grep -A 1 'GET_HOST_POWER' | grep -v 'GET_HOST_POWER'
+HOST_POWER="ON"
+
+
+PROPAGATE_TIME_TO_HOST
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_GLOBAL_SETTINGS.xml | grep PROPAGATE_TIME_TO_HOST
+
+perl locfg.pl -s $1 -u $User -p $Pass -f GET_USER.xml | grep -A 7 'GET_USER'
+
+

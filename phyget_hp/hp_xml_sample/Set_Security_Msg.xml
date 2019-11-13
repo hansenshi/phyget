@@ -1,0 +1,36 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2012,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to configure a        -->
+<!--               security text message in the iLO Login Banner.    -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - version 1.10 or later.                       -->
+<!--            iLO 3 - version 1.50 or later.                       -->
+
+<RIBCL VERSION="2.0">
+  <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+    <RIB_INFO MODE="write">
+      <SET_SECURITY_MSG>
+        <!-- Set to "Yes" or "No". If set to no, security message is -->
+        <!-- removed.                                                -->
+        <SECURITY_MSG value="y"/>
+        <!-- Enter the text of the message between <![CDATA[ and ]]>.-->
+        <SECURITY_MSG_TEXT> 
+	  <![CDATA[This is a private system. It is to be used solely by authorized users and may be monitored for all lawful purposes. By accessing this system, you are consenting to such monitoring.]]>
+       </SECURITY_MSG_TEXT>
+      </SET_SECURITY_MSG>
+    </RIB_INFO>
+  </LOGIN>
+</RIBCL>

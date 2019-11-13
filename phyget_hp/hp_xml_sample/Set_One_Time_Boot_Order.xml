@@ -1,0 +1,69 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2011,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description: This is a sample XML script to Set One Time Boot   -->
+<!--                 Order.                                          -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        and other values inside the quotation marks with values  -->
+<!--        that are appropriate for your environment.               -->
+
+<!--        Use CPQLOCFG.EXE ver 4.20 or greater for iLO2 and        -->
+<!--        HPQLOCFG.EXE ver 1.00 or greater for iLO 3 and iLO 4     -->
+<!--        with this script.                                        -->
+
+<!--        "NORMAL" will set the boot device according to Server    -->
+<!--        Boot Order in iLO GUI.                                   -->
+
+<!--        iLO 3 version 1.00 or later:                     -->
+<!--        This will take one boot device from "cdrom", "floppy",   -->
+<!--        "hdd", "network", "USB", or "normal".                    -->
+
+<!--        iLO 3 version 1.28 or later:                     -->
+<!--        This will take one boot device from "cdrom", "floppy",   -->
+<!--        "hdd", "network", "RBSU", "USB, or "normal".             -->
+
+<!--        iLO 4 version 1.01 or later:                     -->
+<!--        This will take one boot device from "cdrom", "floppy",   -->
+<!--        "hdd", "network", "USB", or "normal".                    -->
+
+<!--        iLO 4 version 1.05 or later:                     -->
+<!--        This will take one boot device from "cdrom", "floppy",   -->
+<!--        "hdd", "network", "RBSU", "USB", or "normal".            -->
+
+<!--        iLO 4 version 1.40 or later and iLO 5 all versions:      -->
+<!--        This will take one boot device from "cdrom", "floppy",   -->
+<!--        "hdd", "network", "RBSU", "USB", "normal",               -->
+<!--        "UEFI_Shell" (UEFI-based systems only), or               -->
+<!--        "Intelligent_Provisioning".                              -->
+
+<!--        iLO 4 version 1.40 or later and iLO 5 all versions, for  -->
+<!--           UEFI-based systems only:                              -->
+<!--        Alternative UEFI target devices may be specified with    -->
+<!--        a command of the form                                    -->
+<!--             <SET_ONE_TIME_BOOT VALUE="BootXXXX"/>               -->
+<!--        Assignment of BootXXXX device names varies from system   -->
+<!--        to system and may change when the system reboots.        -->
+<!--        Execute Get_Persistent_Boot_Order.xml to determine       -->
+<!--        the current BootXXXX device assignments on your system,  -->
+<!--        and choose one of those for SET_ONE_TIME_BOOT.           -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - All versions.                                -->
+<!--            iLO 3 - All versions.                                -->
+
+<RIBCL VERSION="2.0">
+ <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+   <SERVER_INFO MODE="write">
+    <SET_ONE_TIME_BOOT VALUE="UEFI_Shell"/>
+   </SERVER_INFO>
+ </LOGIN>
+</RIBCL>
+

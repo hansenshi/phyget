@@ -1,0 +1,62 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2003,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to get a certificate  -->
+<!--               signing request from following devices:           -->
+<!--                 Integrated Lights-Out 5 (iLO 5)                 -->
+<!--                 Integrated Lights-Out 4 (iLO 4)                 -->
+<!--                 Integrated Lights-Out 3 (iLO 3)                 -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        This script was written for iLO 3 firmware version 1.50  -->
+<!--        release.                                                 -->
+<!--        Default:                                                 -->
+<!--           If default is chosen, then run the script with just   -->
+<!--           the CERTIFICATE_SIGNING_REQUEST tag, and the following-->
+<!--           will be used for generating the certificate:          -->
+<!--             Country Name: "US"                                  -->
+<!--             State: "Texas"                                      -->
+<!--             Locality: "Houston"                                 -->
+<!--             Organization: "Hewlett Packard Enterprise"          -->
+<!--             Organization Unit: "ISS"                            -->
+<!--             Common Name: The Fully Qualified Domain Name        -->
+<!--                          of this iLO subsystem.                 -->
+<!--        Custom:                                                  -->
+<!--           All tags are required except CSR_ORGANIZATIONAL_UNIT. -->
+<!--           If the script is run with missing any of the required -->
+<!--           tags, then the default will be used for the missing   -->
+<!--           tag. If the tag is required and the tag is left blank,-->
+<!--            there will be an error running the script.           -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--         iLO 4 - Default: all versions                           -->
+<!--                 Custom csr: 1.10 or later                       -->
+<!--         iLO 3 - Default: all versions                           -->
+<!--                 Custom csr: 1.50 or later                       -->
+
+<RIBCL VERSION="2.0">
+  <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+    <RIB_INFO MODE="write">
+<!-- Default                                                         -->
+<!--    <CERTIFICATE_SIGNING_REQUEST/>                               -->
+<!-- Custom CSR                                                      -->
+     <CERTIFICATE_SIGNING_REQUEST>
+         <CSR_STATE VALUE =""/>  
+         <CSR_COUNTRY VALUE ="US"/>
+         <CSR_LOCALITY VALUE ="Houston"/>
+         <CSR_ORGANIZATION VALUE ="Hewlett Packard Enterprise"/>
+         <CSR_ORGANIZATIONAL_UNIT VALUE =""/> 
+         <CSR_COMMON_NAME VALUE ="test.com"/>
+     </CERTIFICATE_SIGNING_REQUEST>
+    </RIB_INFO>
+   </LOGIN>
+</RIBCL>

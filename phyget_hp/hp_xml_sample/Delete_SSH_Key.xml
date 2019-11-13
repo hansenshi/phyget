@@ -1,0 +1,34 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2011,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description: This is a sample XML script that deletes existing  -->
+<!--              SSH key saved for the user that is referred by the --> 
+<!--              USER_LOGIN value.                                  -->
+
+<!-- NOTE:  If mulitple SSH keys are saved for the same USER_LOGIN,  -->
+<!--        all those related keys are deleted.                      -->
+
+<!-- NOTE:  You will need to replace the values inside the quote     -->
+<!--        marks with values that are appropriate for your          -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - 1.10 or later                                -->
+<!--            iLO 3 - 1.50 or later                                -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+      <USER_INFO MODE="write">
+         <MOD_USER USER_LOGIN="adminname">
+            <DEL_USERS_SSH_KEY/> 
+         </MOD_USER>
+      </USER_INFO>
+   </LOGIN>
+</RIBCL>

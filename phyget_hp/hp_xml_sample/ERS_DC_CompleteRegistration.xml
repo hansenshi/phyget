@@ -1,0 +1,32 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--  Copyright 2012,2016 Hewlett Packard Enterprise Development LP  -->
+
+<!-- Description:  This is a sample XML script to complete the       -->
+<!--                   server registration.                          -->
+
+<!--    Prerequisites to run this command are:                       -->
+<!--    1. Complete 1st step of server registration                  -->
+<!--    2. Complete 2nd step of server registration                  -->
+<!--       in HPE Insight Online.                                    -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN, PASSWORD,       -->
+<!--        values that are appropriate for your environment.        -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - v1.40 and later.                             -->
+
+<RIBCL VERSION="2.22">
+    <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+        <RIB_INFO MODE="write">
+            <DC_REGISTRATION_COMPLETE/>
+        </RIB_INFO>
+    </LOGIN>
+</RIBCL>
+  

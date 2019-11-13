@@ -1,0 +1,51 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--   Copyright 2017 Hewlett Packard Enterprise Development LP      -->
+
+<!-- Description:  This is a sample XML script to import LDAP CA     -->
+<!--               certificate on following device:                  -->
+<!--                 Integrated Lights-Out 4 (iLO 4)                 -->
+<!--                 Integrated Lights-Out 5 (iLO 5)                 -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - v2.53 onwards                                -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+      <DIR_INFO MODE="write">
+         <IMPORT_LDAP_CA_CERTIFICATE>
+-----BEGIN CERTIFICATE-----
+MIIDeTCCAmGgAwIBAgIQd3YEGIo6t41A76SJKhoLxDANBgkqhkiG9w0BAQUFADBP
+MRMwEQYKCZImiZPyLGQBGRYDY29tMRcwFQYKCZImiZPyLGQBGRYHaWxvdGVzdDEf
+MB0GA1UEAxMWaWxvdGVzdC1JTE9URVNUU1lTMS1DQTAeFw0xNDExMDQxMjA1MjNa
+Fw0xOTExMDQxMjE1MjNaME8xEzARBgoJkiaJk/IsZAEZFgNjb20xFzAVBgoJkiaJ
+k/IsZAEZFgdpbG90ZXN0MR8wHQYDVQQDExZpbG90ZXN0LUlMT1RFU1RTWVMxLUNB
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6WgnJ/SBGttDZWEeoA/X
+ePoCNcp3C75rGGBz18QWdZlD/Ze6V5ohru2rSLuU5aqVPdCZJCgF35rmii/s44YN
+lZ94NTlxTuTU2ULzx8AI8fhsbRLT11mtvHD/znuMbs3o4L4HDZNXQBxL9pMZOI4V
+29aVDWr3jWccWcO1qvBjFcZLwayulv41UYE5YOouXdenOwc9PUePvc7Ow9LYBhVf
+88IcuWB2cRGPWWQLINxeRYP9SSkiNM7J7ly2NSZED8K6Q0WehalwnTMKitcGwHEu
+hGSg4trCMDPb+2PjoEjPEfNqY4q5vlviS6lFnw4T33cqh8ttv14Z4UulIP0GixwO
+xQIDAQABo1EwTzALBgNVHQ8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4E
+FgQUNJc/4ob6bMcYuDqwMTiq2SqK/KowEAYJKwYBBAGCNxUBBAMCAQAwDQYJKoZI
+hvcNAQEFBQADggEBAOhcCbLMno08NLJc4FWGp8z8yNu5oUjJRpIsa5i1cvp2XgoL
+z0Y4EBATRks78YOiD+LPnbyglesj7qyjtmPtfZo9CGuXVAD2JxWqmWL2SZViafrK
+jSOw4rMNgQCTzEVwMfif2V5eZOmhh0tsQqGOAYmKOq3TJOD0P+BegXngxepw+WDM
+DRZBPCtSwsFfKihf3YTMBtHvTpujXy3wcJuvD/1wCjsvfmU+6ayrJg63T3KlRzpw
+Sxb1ZmcYxfn8psrskYCsXGmpzZPEaHwQCk4Mmf79sr8dm2Gs38RzvG3s/9mLMmyr
+Ttvzg0M6+148b7L3Rvge6zU3RK2f2oBIXc+Jda4=
+-----END CERTIFICATE-----
+         </IMPORT_LDAP_CA_CERTIFICATE>
+      </DIR_INFO>
+   </LOGIN>
+</RIBCL>

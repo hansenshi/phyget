@@ -1,0 +1,38 @@
+<!--         RIBCL Sample Script for HPE Lights-Out Products         -->
+<!--   Copyright 2016 Hewlett Packard Enterprise Development LP      -->
+
+<!-- Description:  This is a sample XML script to start directory    -->
+<!--               test on following device:                         -->
+<!--                 Integrated Lights-Out 4 (iLO 4)                 -->
+<!--                 Integrated Lights-Out 5 (iLO 5)                 -->
+
+<!-- Directory tests enable you to validate the configured directory -->
+<!-- settings. The directory test results are reset when directory   -->
+<!-- settings are saved, or when the directory tests are started.    -->
+
+<!-- NOTE:  You will need to replace the USER_LOGIN and PASSWORD     -->
+<!--        values with values that are appropriate for your         -->
+<!--        environment.                                             -->
+
+<!--        Use HPQLOCFG.EXE v1.00 or greater with this script.      -->
+
+<!--        See "iLO Scripting and Command Line Guide" for more      -->
+<!--        information on scripting and the syntax of the RIBCL     -->
+<!--        XML.                                                     -->
+
+<!--        Firmware support information for this script:            -->
+<!--            iLO 5 - All versions                                 -->
+<!--            iLO 4 - v2.40 onwards                                -->
+
+<RIBCL VERSION="2.0">
+   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
+      <DIR_INFO MODE="write">
+         <START_DIR_TEST>
+            <DIR_ADMIN_DISTINGUISHED_NAME VALUE="ad_admin_username"/>
+            <DIR_ADMIN_PASSWORD VALUE="password"/>
+            <TEST_USER_NAME VALUE="test_user_name"/>
+            <TEST_USER_PASSWORD VALUE="password"/>
+        </START_DIR_TEST>
+      </DIR_INFO>
+   </LOGIN>
+</RIBCL>

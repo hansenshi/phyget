@@ -1,0 +1,1877 @@
+  10.4.0.11      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FZJ5K2                            
+  10.4.0.12      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FHK5K2                            
+  10.4.0.13      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2G1N5K2                            
+  10.4.0.14      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2G2H5K2                            
+  10.4.0.15      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GFC5K2                            
+  10.4.0.16      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FGK5K2                            
+  10.4.0.17      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GFK5K2                            
+  10.4.0.21      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNL70K2                            
+  10.4.0.22      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNL40K2                            
+  10.4.0.23      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNLH7J2                            
+  10.4.0.24      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNL5HJ2                            
+  10.4.0.25      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNLB0K2                            
+  10.4.0.26      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FHL5K2                            
+  10.4.0.27      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FJL5K2                            
+  10.4.0.28      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FKD5K2                            
+  10.4.0.29      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FHD5K2                            
+  10.4.0.30      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2F7K5K2                            
+  10.4.0.31      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2F9H5K2                            
+  10.4.0.32      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27CF5K2                            
+  10.4.0.33      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27CH5K2                            
+  10.4.0.34      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DHC5K2                            
+  10.4.0.35      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DJC5K2                            
+  10.4.0.36      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GGD5K2                            
+  10.4.0.37      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GCJ5K2                            
+  10.4.0.38      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GFJ5K2                            
+  10.4.0.40      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GDL5K2                            
+  10.4.0.41      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GCK5K2                            
+  10.4.0.42      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GCG5K2                            
+  10.4.0.43      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FBH5K2                            
+  10.4.0.44      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FCF5K2                            
+  10.4.0.45      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DFL5K2                            
+  10.4.0.46      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DHJ5K2                            
+  10.4.0.47      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GDD5K2                            
+  10.4.0.48      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2G0M5K2                            
+  10.4.0.49      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FJF5K2                            
+  10.4.0.50      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FHH5K2                            
+  10.4.0.51      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FJG5K2                            
+  10.4.0.52      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2FGM5K2                            
+  10.4.0.53      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2G1K5K2                            
+  10.4.0.54      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29HJ5K2                            
+  10.4.0.55      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29GG5K2                            
+  10.4.0.56      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29HD5K2                            
+  10.4.0.57                                                                           
+  10.4.0.58      Manufacturer: DELL    Name: PowerEdge R630       Serial: DSGXWG2                            
+  10.4.0.59                                                                           
+  10.4.0.60                                                                           
+  10.4.0.61      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF0M  
+  10.4.0.62      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEWK  
+  10.4.0.63      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEX8  
+  10.4.0.64      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF0H  
+  10.4.0.65      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF0C  
+  10.4.0.66      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEX4  
+  10.4.0.67      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF04  
+  10.4.0.68      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF12  
+  10.4.0.69      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEWP  
+  10.4.0.70      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF1P  
+  10.4.0.71      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEX0  
+  10.4.0.72      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEY2  
+  10.4.0.73      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEWE  
+  10.4.0.74      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF00  
+  10.4.0.75      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF1A  
+  10.4.0.76      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEXS  
+  10.4.0.77      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE79  
+  10.4.0.79                                                                           
+  10.4.0.80                                                                           
+  10.4.0.81                                                                           
+  10.4.0.82                                                                           
+  10.4.0.85      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W689  
+  10.4.0.86                                                                           
+  10.4.0.87      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CCM5K2                            
+  10.4.0.88      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CDG5K2                            
+  10.4.0.89                                                                           
+  10.4.0.91      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CDM5K2                            
+  10.4.0.92      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEW1  
+  10.4.0.93      Manufacturer: DELL    Name: PowerEdge R730       Serial: 5B2NZH2                            
+  10.4.0.94      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE8R  
+  10.4.0.95      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W61F  
+  10.4.0.96      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W62F  
+  10.4.0.98                                                                           
+  10.4.0.99      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEAR  
+  10.4.0.100     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE75  
+  10.4.0.101     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE63  
+  10.4.0.102     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEAF  
+  10.4.0.103     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE8F  
+  10.4.0.104     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE8B  
+  10.4.0.105     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE7N  
+  10.4.0.106     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEA3  
+  10.4.0.107     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE7J  
+  10.4.0.108     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE7Y  
+  10.4.0.109     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE9D  
+  10.4.0.110     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE6L  
+  10.4.0.111     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMVGDK2                            
+  10.4.0.112     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMWKDK2                            
+  10.4.0.113     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMCJDK2                            
+  10.4.0.114     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE95  
+  10.4.0.115                                                                          
+  10.4.0.116     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE6W  
+  10.4.0.117     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE87  
+  10.4.0.118     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PER3  
+  10.4.0.119     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF0X  
+  10.4.0.120     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEWV  
+  10.4.0.121     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEXC  
+  10.4.0.122     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEYE  
+  10.4.0.123     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEXM  
+  10.4.0.125     Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU626Y9PD  
+  10.4.0.126     Manufacturer: DELL    Name: PowerEdge R730       Serial: 56QD1L2                            
+  10.4.0.127     Manufacturer: DELL    Name: PowerEdge R730       Serial: 56NC1L2                            
+  10.4.0.128     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5HL  
+  10.4.0.129     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WXYD  
+  10.4.0.130     Manufacturer: DELL    Name: PowerEdge R730       Serial: 5VYJZH2                            
+  10.4.0.131     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BS5K  
+  10.4.0.132     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W648  
+  10.4.0.133     Manufacturer: DELL    Name: PowerEdge R730       Serial: 5VZLZH2                            
+  10.4.0.135     Manufacturer: DELL    Name: PowerEdge R930       Serial: 8HQMZH2                            
+  10.4.0.136     Manufacturer: DELL    Name: PowerEdge R930       Serial: 8HQLZH2                            
+  10.4.0.137     Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU648BXDF  
+  10.4.0.138     Manufacturer: HP      Name: ProLiant DL580 Gen8  Serial: 6CU512VE67  
+  10.4.0.139     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEC0  
+  10.4.0.140     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE7S  
+  10.4.0.141     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEK8  
+  10.4.0.142     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE88  
+  10.4.0.143     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEJ5  
+  10.4.0.144     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEA4  
+  10.4.0.145     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEB2  
+  10.4.0.146     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEF1  
+  10.4.0.147     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEJV  
+  10.4.0.148     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEJC  
+  10.4.0.149     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE7A  
+  10.4.0.150     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEDL  
+  10.4.0.151     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEB9  
+  10.4.0.152     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEEJ  
+  10.4.0.153     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE73  
+  10.4.0.154     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEE3  
+  10.4.0.155     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE9W  
+  10.4.0.156     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PECE  
+  10.4.0.157     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEJL  
+  10.4.0.158     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEF8  
+  10.4.0.159     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEBR  
+  10.4.0.160     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEKN  
+  10.4.0.161     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE6V  
+  10.4.0.162     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE81  
+  10.4.0.163     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEDV  
+  10.4.0.164     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE7J  
+  10.4.0.165     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE8P  
+  10.4.0.166     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE6L  
+  10.4.0.167     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE8Y  
+  10.4.0.168     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEH9  
+  10.4.0.169     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEHX  
+  10.4.0.170     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEAB  
+  10.4.0.171     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEAK  
+  10.4.0.172     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE9D  
+  10.4.0.173     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEFY  
+  10.4.0.174     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE8F  
+  10.4.0.175     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE9M  
+  10.4.0.176     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PED5  
+  10.4.0.177     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PE96  
+  10.4.0.178     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEAT  
+  10.4.0.179                                                                          
+  10.4.0.180     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEFF  
+  10.4.0.181     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PECX  
+  10.4.0.182     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEFP  
+  10.4.0.183     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEC7  
+  10.4.0.184     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEEA  
+  10.4.0.185     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEL5  
+  10.4.0.186     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEES  
+  10.4.0.187     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEDC  
+  10.4.0.188     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PELL  
+  10.4.0.189     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEBH  
+  10.4.0.190     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PECN  
+  10.4.0.191     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU626Y5C3  
+  10.4.0.192     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWEC  
+  10.4.0.193     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5HR  
+  10.4.0.194     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WY11  
+  10.4.0.195     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WY0D  
+  10.4.0.196     Manufacturer: Inspur  Name: SA5212M4             Serial: 817390918   
+  10.4.0.197     Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU626Y9NF  
+  10.4.0.198     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWEM  
+  10.4.0.199     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395268   
+  10.4.0.200     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395272   
+  10.4.0.201     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395275   
+  10.4.0.202     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395274   
+  10.4.0.203     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395270   
+  10.4.0.204     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395271   
+  10.4.0.205     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395269   
+  10.4.0.206     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395273   
+  10.4.0.207     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574XF  
+  10.4.0.208     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574XR  
+  10.4.0.209     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574XW  
+  10.4.0.210     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574XB  
+  10.4.0.211     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574XL  
+  10.4.0.212     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC5A  
+  10.4.0.213     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU617WW2L  
+  10.4.0.214     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU551YFEX  
+  10.4.0.215     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC44  
+  10.4.0.216     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBXX  
+  10.4.0.217     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU551YFEC  
+  10.4.0.218     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM7V  
+  10.4.0.219     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU533V2F7  
+  10.4.0.220     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEBJ  
+  10.4.0.221     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEYK  
+  10.4.0.222     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF08  
+  10.4.0.223     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF16  
+  10.4.0.224     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEYA  
+  10.4.0.225     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEAL  
+  10.4.0.226     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEXH  
+  10.4.0.227     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF20  
+  10.4.0.228     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEYP  
+  10.4.0.229     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF1V  
+  10.4.0.230     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC04  
+  10.4.0.231     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC5P  
+  10.4.0.232     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC2H  
+  10.4.0.233                                                                          
+  10.4.0.234     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBYA  
+  10.4.0.235     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WXY1  
+  10.4.0.237     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU626Y5CD  
+  10.4.1.10      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376656   
+  10.4.1.11      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376661   
+  10.4.1.12      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376663   
+  10.4.1.13      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376668   
+  10.4.1.14      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376665   
+  10.4.1.15      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376666   
+  10.4.1.16      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199398   
+  10.4.1.17      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199382   
+  10.4.1.18      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199383   
+  10.4.1.19      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199378   
+  10.4.1.20      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199376   
+  10.4.1.21      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199372   
+  10.4.1.22      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199377   
+  10.4.1.23      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199390   
+  10.4.1.24      Manufacturer: Inspur  Name: SA5112M5             Serial: 719199375   
+  10.4.1.27      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376681   
+  10.4.1.28      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376691   
+  10.4.1.35      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376678   
+  10.4.1.36      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376679   
+  10.4.1.37      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376680   
+  10.4.1.38      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376688   
+  10.4.1.39      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376692   
+  10.4.1.40      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376685   
+  10.4.1.41      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376689   
+  10.4.1.42      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376687   
+  10.4.1.43      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376676   
+  10.4.1.44      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376686   
+  10.4.1.45      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376690   
+  10.4.1.46      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376683   
+  10.4.1.50      Manufacturer: DELL    Name: PowerEdge R730       Serial: 52XHZH2                            
+  10.4.1.51      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVRZG2                            
+  10.4.1.52      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXW90H2                            
+  10.4.1.53      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29GK5K2                            
+  10.4.1.54      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29HH5K2                            
+  10.4.1.55      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29GF5K2                            
+  10.4.1.56      Manufacturer: DELL    Name: PowerEdge R730       Serial: 52THZH2                            
+  10.4.1.57      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29FK5K2                            
+  10.4.1.58      Manufacturer: DELL    Name: PowerEdge R730       Serial: 29HC5K2                            
+  10.4.1.59      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VAVP  
+  10.4.1.63      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DVJ5K2                            
+  10.4.1.66      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DTM5K2                            
+  10.4.1.67      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DFD5K2                            
+  10.4.1.68      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DSL5K2                            
+  10.4.1.69      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DHG5K2                            
+  10.4.1.72      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DWG5K2                            
+  10.4.1.74      Manufacturer: DELL    Name: PowerEdge R730       Serial: 52VMZH2                            
+  10.4.1.75      Manufacturer: DELL    Name: PowerEdge R730       Serial: 53LNZH2                            
+  10.4.1.76      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VAVE  
+  10.4.1.78      Manufacturer: DELL    Name: PowerEdge R630       Serial: DTMZWG2                            
+  10.4.1.79      Manufacturer: DELL    Name: PowerEdge R630       Serial: DTKWWG2                            
+  10.4.1.80      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719J6SK  
+  10.4.1.81                                                                           
+  10.4.1.82                                                                           
+  10.4.1.83                                                                           
+  10.4.1.84      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU725V2D0  
+  10.4.1.85                                                                           
+  10.4.1.86                                                                           
+  10.4.1.87      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU725V28T  
+  10.4.1.97      Manufacturer: Inspur  Name: SA5212M4             Serial: 817388305   
+  10.4.1.98      Manufacturer: Inspur  Name: SA5212M4             Serial: 817388280   
+  10.4.1.99      Manufacturer: Inspur  Name: SA5212M4             Serial: 817388286   
+  10.4.1.100     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388297   
+  10.4.1.101     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388300   
+  10.4.1.102     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388290   
+  10.4.1.103     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388299   
+  10.4.1.104     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388293   
+  10.4.1.105     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388284   
+  10.4.1.106     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388288   
+  10.4.1.107     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388285   
+  10.4.1.108     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388282   
+  10.4.1.109     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388281   
+  10.4.1.110     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388301   
+  10.4.1.111     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388283   
+  10.4.1.112     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388294   
+  10.4.1.113     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388304   
+  10.4.1.114     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388302   
+  10.4.1.115     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388291   
+  10.4.1.116     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388287   
+  10.4.1.117     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388298   
+  10.4.1.118     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388303   
+  10.4.1.119     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388289   
+  10.4.1.120     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388292   
+  10.4.1.121     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388295   
+  10.4.1.122     Manufacturer: Inspur  Name: SA5212M4             Serial: 817388296   
+  10.4.1.123     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391256   
+  10.4.1.124     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391247   
+  10.4.1.125     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391254   
+  10.4.1.126     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391258   
+  10.4.1.127     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391249   
+  10.4.1.128     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391252   
+  10.4.1.129     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391250   
+  10.4.1.130     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391253   
+  10.4.1.131     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391257   
+  10.4.1.132     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391251   
+  10.4.1.133     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391244   
+  10.4.1.134     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391260   
+  10.4.1.135     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391246   
+  10.4.1.136     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391255   
+  10.4.1.137     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391245   
+  10.4.1.138     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391248   
+  10.4.1.139     Manufacturer: Inspur  Name: SA5212M4             Serial: 817391259   
+  10.4.1.140     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376669   
+  10.4.1.141     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376667   
+  10.4.1.143     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376659   
+  10.4.1.144     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376654   
+  10.4.1.145     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376658   
+  10.4.1.146     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376660   
+  10.4.1.148     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376657   
+  10.4.1.150     Manufacturer: Inspur  Name: SA5112M4             Serial: 817376655   
+  10.4.1.151     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395253   
+  10.4.1.152     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395255   
+  10.4.1.153     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395238   
+  10.4.1.154     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395267   
+  10.4.1.155     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395242   
+  10.4.1.156     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395259   
+  10.4.1.157     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395264   
+  10.4.1.158     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395244   
+  10.4.1.159     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395248   
+  10.4.1.160     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395247   
+  10.4.1.161     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395258   
+  10.4.1.162     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395252   
+  10.4.1.163     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395245   
+  10.4.1.164     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395235   
+  10.4.1.165     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395251   
+  10.4.1.166     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395260   
+  10.4.1.167     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395263   
+  10.4.1.168     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395249   
+  10.4.1.169     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395266   
+  10.4.1.170     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395265   
+  10.4.1.172     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395246   
+  10.4.1.173     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395261   
+  10.4.1.174     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395239   
+  10.4.1.175     Manufacturer: Inspur  Name: SA5212M4             Serial: 817414948   
+  10.4.1.176     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395257   
+  10.4.1.177     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395240   
+  10.4.1.178     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395241   
+  10.4.1.179     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395256   
+  10.4.1.180     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395254   
+  10.4.1.181     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395243   
+  10.4.1.182     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395237   
+  10.4.1.183     Manufacturer: Inspur  Name: SA5212M4             Serial: 817395262   
+  10.4.1.184     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578HF  
+  10.4.1.185     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578RT  
+  10.4.1.186     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578M5  
+  10.4.1.187     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578H0  
+  10.4.1.188     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578T5  
+  10.4.1.189     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578P5  
+  10.4.1.190     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578L0  
+  10.4.1.191     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578KM  
+  10.4.1.192     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578HA  
+  10.4.1.193     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578NF  
+  10.4.1.194     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578N5  
+  10.4.1.195     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578TM  
+  10.4.1.196     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578PF  
+  10.4.1.197     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578R0  
+  10.4.1.198     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578R5  
+  10.4.1.199     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578MT  
+  10.4.1.200     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578MA  
+  10.4.1.201     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578P0  
+  10.4.1.202     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578FT  
+  10.4.1.203     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578RM  
+  10.4.1.204     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578KT  
+  10.4.1.205     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578KA  
+  10.4.1.206     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578KF  
+  10.4.1.207     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578RF  
+  10.4.1.208     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578HT  
+  10.4.1.209     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578T0  
+  10.4.1.210     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578K5  
+  10.4.1.211     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578SA  
+  10.4.1.212     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578PA  
+  10.4.1.213     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578S0  
+  10.4.1.214     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578H5  
+  10.4.1.215     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578TT  
+  10.4.1.216     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578TA  
+  10.4.1.217     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578N0  
+  10.4.1.218     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578S5  
+  10.4.1.219     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578SF  
+  10.4.1.220     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578PT  
+  10.4.1.221     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578NM  
+  10.4.1.222     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578RA  
+  10.4.1.223     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578PM  
+  10.4.1.224     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578ST  
+  10.4.1.225     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578TF  
+  10.4.1.226     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578NT  
+  10.4.1.227     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578K0  
+  10.4.1.228     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578MF  
+  10.4.1.229     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578LT  
+  10.4.1.230     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578L5  
+  10.4.1.231     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578LA  
+  10.4.1.232     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578J0  
+  10.4.1.233     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578JA  
+  10.4.1.234     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578HM  
+  10.4.1.235     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578LF  
+  10.4.1.236     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: HZ76NX0387  
+  10.4.1.237     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578JF  
+  10.4.1.238     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578JM  
+  10.4.1.239     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578LM  
+  10.4.1.240     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578MM  
+  10.4.1.241     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578J5  
+  10.4.1.242     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578JT  
+  10.4.1.243     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578SM  
+  10.4.1.244     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574VY  
+  10.4.1.245     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574TF  
+  10.4.1.246     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574TW  
+  10.4.1.247     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74574VE  
+  10.4.1.248     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU74578NA  
+  10.4.1.249     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212254   
+  10.4.1.250     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211218   
+  10.4.1.251     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211219   
+  10.4.1.252     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212248   
+  10.4.4.10      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFC8  
+  10.4.4.11      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFJ0  
+  10.4.4.12      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFF7  
+  10.4.4.13      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFAB  
+  10.4.4.14      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFCH  
+  10.4.4.15      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFA3  
+  10.4.4.16      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFBY  
+  10.4.4.17      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFMT  
+  10.4.4.18      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFFF  
+  10.4.4.19      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFLC  
+  10.4.4.20      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFEL  
+  10.4.4.21      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFKS  
+  10.4.4.22      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFMF  
+  10.4.4.23      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFM7  
+  10.4.4.24      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFJA  
+  10.4.4.25      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFK7  
+  10.4.4.26      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFH3  
+  10.4.4.27      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFFS  
+  10.4.4.28      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFL3  
+  10.4.4.29      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFLN  
+  10.4.4.30      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFJM  
+  10.4.4.31      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFAL  
+  10.4.4.32      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFHD  
+  10.4.4.33      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFB7  
+  10.4.4.34      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFBN  
+  10.4.4.35      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFJY  
+  10.4.4.36      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFCT  
+  10.4.4.37      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFDP  
+  10.4.4.38      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFEA  
+  10.4.4.39      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFKF  
+  10.4.4.42      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEV9  
+  10.4.4.43      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PES1  
+  10.4.4.44      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PETJ  
+  10.4.4.45      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PESS  
+  10.4.4.47      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PERF  
+  10.4.4.48      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFHN  
+  10.4.4.49      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFD4  
+  10.4.4.50      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFLY  
+  10.4.4.51      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFEY  
+  10.4.4.52      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFE2  
+  10.4.4.53      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PF9T  
+  10.4.4.54      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEWR  
+  10.4.4.55      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEXH  
+  10.4.4.56      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEVY  
+  10.4.4.57      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PERW  
+  10.4.4.58      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEV1  
+  10.4.4.59      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PESM  
+  10.4.4.60      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PETF  
+  10.4.4.61      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PET7  
+  10.4.4.62      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEX3  
+  10.4.4.63      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PETP  
+  10.4.4.64      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEXC  
+  10.4.4.65      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PES2  
+  10.4.4.66      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEVA  
+  10.4.4.67      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PESX  
+  10.4.4.68      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEWS  
+  10.4.4.69      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEVM  
+  10.4.4.70      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PESB  
+  10.4.4.71      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEW7  
+  10.4.4.72      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEWH  
+  10.4.4.73      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376696   
+  10.4.4.74      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376698   
+  10.4.4.75      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376694   
+  10.4.4.76      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376695   
+  10.4.4.77      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376697   
+  10.4.4.78      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFDE  
+  10.4.4.79      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PFAX  
+  10.4.4.80      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376662   
+  10.4.4.81      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376664   
+  10.4.4.82      Manufacturer: Inspur  Name: SA5112M4             Serial: 817376670   
+  10.4.4.83      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWDV  
+  10.4.4.84      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWEH  
+  10.4.4.85      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WY01  
+  10.4.4.86      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5J5  
+  10.4.4.87      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWDP  
+  10.4.4.88      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5H9  
+  10.4.4.89                                                                           
+  10.4.4.90      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BH7N  
+  10.4.4.91      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CJG5K2                            
+  10.4.4.92      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CJJ5K2                            
+  10.4.4.93      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CJD5K2                            
+  10.4.4.94      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCAD  
+  10.4.4.95      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCAN  
+  10.4.4.96      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCAY  
+  10.4.4.97      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCPB  
+  10.4.4.98      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCA9  
+  10.4.4.99                                                                           
+  10.4.4.100                                                                          
+  10.4.4.101                                                                          
+  10.4.4.102                                                                          
+  10.4.4.103                                                                          
+  10.4.4.104                                                                          
+  10.4.4.105                                                                          
+  10.4.4.106                                                                          
+  10.4.4.107                                                                          
+  10.4.4.108     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU551YFDA  
+  10.4.4.109     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU542XNV3  
+  10.4.4.110     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WXXT  
+  10.4.4.111     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5HW  
+  10.4.4.112     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WY0T  
+  10.4.4.113     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM88  
+  10.4.4.114                                                                          
+  10.4.4.116     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU542XNW1  
+  10.4.4.117     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU542XNWM  
+  10.4.4.118     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5J1  
+  10.4.4.119     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5HD  
+  10.4.4.121     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE83  
+  10.4.4.122     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEAB  
+  10.4.4.123     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE9T  
+  10.4.4.124     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF0S  
+  10.4.4.125     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF1K  
+  10.4.4.126     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEY6  
+  10.4.4.127     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEXX  
+  10.4.4.128     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEYV  
+  10.4.4.129     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCKB  
+  10.4.4.130                                                                          
+  10.4.4.131                                                                          
+  10.4.4.132                                                                          
+  10.4.4.133     Manufacturer: DELL    Name: PowerEdge R630       Serial: DTLXWG2                            
+  10.4.4.134     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W60T  
+  10.4.4.135     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W60F  
+  10.4.4.136                                                                          
+  10.4.4.137                                                                          
+  10.4.4.138                                                                          
+  10.4.4.139                                                                          
+  10.4.4.140     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956Y2  
+  10.4.4.141     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809573C  
+  10.4.4.142     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956JW  
+  10.4.4.143     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956J3  
+  10.4.4.144     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956JR  
+  10.4.4.145     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956K1  
+  10.4.4.146     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNT40K2                            
+  10.4.4.147                                                                          
+  10.4.4.148     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR30K2                            
+  10.4.4.149     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR22K2                            
+  10.4.4.150                                                                          
+  10.4.4.151     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNT32K2                            
+  10.4.4.152     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GLF5K2                            
+  10.4.4.153     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GLD5K2                            
+  10.4.4.154     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GKH5K2                            
+  10.4.4.155     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNRJ7J2                            
+  10.4.4.156     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR60K2                            
+  10.4.4.159     Manufacturer: DELL    Name: PowerEdge R730       Serial: 532NZH2                            
+  10.4.4.160     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNQ60K2                            
+  10.4.4.161     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR40K2                            
+  10.4.4.162     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957K3  
+  10.4.4.163     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957DD  
+  10.4.4.164     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957JL  
+  10.4.4.165     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957FH  
+  10.4.4.166     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095790  
+  10.4.4.167     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957L1  
+  10.4.4.168     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809579X  
+  10.4.4.169     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957E4  
+  10.4.4.170     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957DM  
+  10.4.4.171     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957D6  
+  10.4.4.172     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095782  
+  10.4.4.173     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957DW  
+  10.4.4.174     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809578H  
+  10.4.4.175     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957H7  
+  10.4.4.176     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957MD  
+  10.4.4.177     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957HX  
+  10.4.4.178     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957KA  
+  10.4.4.179     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957BS  
+  10.4.4.180     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957LF  
+  10.4.4.181     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957C1  
+  10.4.4.182     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809577K  
+  10.4.4.183     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957N4  
+  10.4.4.184     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809576M  
+  10.4.4.185     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957F9  
+  10.4.4.186     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809576W  
+  10.4.4.187     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957KS  
+  10.4.4.188     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957CF  
+  10.4.4.189     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095797  
+  10.4.4.190     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809576D  
+  10.4.4.191     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957HN  
+  10.4.4.192     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957BA  
+  10.4.4.193     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095789  
+  10.4.4.194     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957LP  
+  10.4.4.195     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957ET  
+  10.4.4.196     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957B3  
+  10.4.4.197     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957MM  
+  10.4.4.198     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809579E  
+  10.4.4.199     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957M6  
+  10.4.4.200     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNT12K2                            
+  10.4.4.201     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNQ80K2                            
+  10.4.4.202     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR5XJ2                            
+  10.4.4.203     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR0HJ2                            
+  10.4.4.204     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNQD7J2                            
+  10.4.4.205     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5BJ  
+  10.4.4.206     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956T2  
+  10.4.4.207     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956XP  
+  10.4.4.208     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956V2  
+  10.4.4.209     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956TP  
+  10.4.4.210     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5TJ  
+  10.4.4.211     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5TT  
+  10.4.4.212     Manufacturer: DELL    Name: PowerEdge R730       Serial: 5VZQZH2                            
+  10.4.4.213                                                                          
+  10.4.4.214     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEB1  
+  10.4.4.215     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE67  
+  10.4.4.216     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE71  
+  10.4.4.217                                                                          
+  10.4.4.218     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEAW  
+  10.4.4.219     Manufacturer: HP      Name: ProLiant DL580 Gen8  Serial: 6CU512VE63  
+  10.4.4.220     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU542XNTT  
+  10.4.4.221     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU651JN97  
+  10.4.4.222     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WXYL  
+  10.4.4.223     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BS5E  
+  10.4.4.224     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN76380JN3  
+  10.4.4.225     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWDK  
+  10.4.4.226     Manufacturer: HP      Name: ProLiant DL580 Gen8  Serial: 6CU512VE6B  
+  10.4.4.227     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE6F  
+  10.4.4.230     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230844   
+  10.4.4.231     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230847   
+  10.4.4.232     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230849   
+  10.4.4.233     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W8BR  
+  10.4.4.234     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WY07  
+  10.4.4.235     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JF1E  
+  10.4.4.236     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU533V2DP  
+  10.4.4.237     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BS56  
+  10.4.4.238     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWDE  
+  10.4.4.239     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W8BJ  
+  10.4.4.240     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W63F  
+  10.4.4.241     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNQ50K2                            
+  10.4.4.242     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR7XJ2                            
+  10.4.4.243     Manufacturer: DELL    Name: PowerEdge R730       Serial: JNQ2HJ2                            
+  10.4.4.244     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2GJM5K2                            
+  10.4.4.245     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5RY  
+  10.4.4.249     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCHR  
+  10.4.4.250                                                                          
+  10.4.5.11      Manufacturer: Inspur  Name: SA5212M4             Serial: 818237662   
+  10.4.5.12      Manufacturer: Inspur  Name: SA5212M4             Serial: 818237661   
+  10.4.5.13      Manufacturer: Inspur  Name: SA5212M4             Serial: 218238176   
+  10.4.5.14      Manufacturer: Inspur  Name: SA5212M4             Serial: 218238177   
+  10.4.5.15      Manufacturer: Inspur  Name: SA5212M4             Serial: 218238178   
+  10.4.5.16      Manufacturer: Inspur  Name: SA5212M4             Serial: 218238175   
+  10.4.5.17      Manufacturer: Inspur  Name: SA5212M4             Serial: 218238174   
+  10.4.5.18      Manufacturer: DELL    Name: PowerEdge R730       Serial: H559DN2                            
+  10.4.5.19      Manufacturer: DELL    Name: PowerEdge R730       Serial: H55CDN2                            
+  10.4.5.20      Manufacturer: DELL    Name: PowerEdge R730       Serial: H55BDN2                            
+  10.4.5.21      Manufacturer: DELL    Name: PowerEdge R730       Serial: H5CCDN2                            
+  10.4.5.22      Manufacturer: DELL    Name: PowerEdge R730       Serial: H5B8DN2                            
+  10.4.5.23      Manufacturer: DELL    Name: PowerEdge R730       Serial: H5BGDN2                            
+  10.4.5.24      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCMR  
+  10.4.5.25      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCAT  
+  10.4.5.26      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCAJ  
+  10.4.5.27      Manufacturer: Inspur  Name: SA5212M4             Serial: 817212245   
+  10.4.5.28      Manufacturer: Inspur  Name: SA5212M4             Serial: 817211224   
+  10.4.5.29      Manufacturer: Inspur  Name: SA5212M4             Serial: 817211227   
+  10.4.5.30      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBCT  
+  10.4.5.31      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBE1  
+  10.4.5.32      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBCC  
+  10.4.5.33      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBF4  
+  10.4.5.34      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBEM  
+  10.4.5.35      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 2G4G5K2                            
+  10.4.5.36      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 535LZH2                            
+  10.4.5.37      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 538PZH2                            
+  10.4.5.39      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648B60J  
+  10.4.5.40      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU533V2F5  
+  10.4.5.42      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648B62D  
+  10.4.5.43                                                                           
+  10.4.5.44      Manufacturer: HP      Name: ProLiant DL388 Gen9  Serial: CN75030G69  
+  10.4.5.45      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W66D  
+  10.4.5.46      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCNY  
+  10.4.5.47      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCL5  
+  10.4.5.48      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC0X  
+  10.4.5.49      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648B61W  
+  10.4.5.50      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCN5  
+  10.4.5.51      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCLJ  
+  10.4.5.52      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VC1A  
+  10.4.5.53      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W67V  
+  10.4.5.54      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W664  
+  10.4.5.55      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN752405M6  
+  10.4.5.56      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN752405LB  
+  10.4.5.57                                                                           
+  10.4.5.58                                                                           
+  10.4.5.60                                                                           
+  10.4.5.61      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR3XJ2                            
+  10.4.5.62      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR1XJ2                            
+  10.4.5.63      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNR42K2                            
+  10.4.5.64      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNRB0K2                            
+  10.4.5.65      Manufacturer: DELL    Name: PowerEdge R730       Serial: JNSH7J2                            
+  10.4.5.66                                                                           
+  10.4.5.67                                                                           
+  10.4.5.68                                                                           
+  10.4.5.69      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCJJ  
+  10.4.5.70      Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU648BXBL  
+  10.4.5.71                                                                           
+  10.4.5.72      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5T1  
+  10.4.5.73      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5SR  
+  10.4.5.74      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5SF  
+  10.4.5.75      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCKR  
+  10.4.5.76      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCJ5  
+  10.4.5.77      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCLY  
+  10.4.5.78      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCJY  
+  10.4.5.79      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU625WCNJ  
+  10.4.5.80      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W635  
+  10.4.5.81      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W62T  
+  10.4.5.83      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU533V2F1  
+  10.4.5.84      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU617WW1H  
+  10.4.5.85      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU617WW18  
+  10.4.5.86      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU516WP6E  
+  10.4.5.87                                                                           
+  10.4.5.88                                                                           
+  10.4.5.89      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W625  
+  10.4.5.90                                                                           
+  10.4.5.92      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU551YFF6  
+  10.4.5.93      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM82  
+  10.4.5.94      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM86  
+  10.4.5.95      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU533V2ET  
+  10.4.5.96                                                                           
+  10.4.5.99      Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU626Y5BT  
+  10.4.5.100     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMWFDK2                            
+  10.4.5.101     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMDFDK2                            
+  10.4.5.102     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMBJDK2                            
+  10.4.5.103     Manufacturer: DELL    Name: PowerEdge R730       Serial: 5W0QZH2                            
+  10.4.5.104     Manufacturer: HP      Name: ProLiant DL580 Gen9  Serial: 6CU533V2DV  
+  10.4.5.105     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BS5A  
+  10.4.5.107     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM8K  
+  10.4.5.108     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU610WXY7  
+  10.4.5.109     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU512VE6X  
+  10.4.5.110                                                                          
+  10.4.5.111                                                                          
+  10.4.5.112     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM8C  
+  10.4.5.113     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648BS51  
+  10.4.5.114     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W659  
+  10.4.5.115     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM7S  
+  10.4.5.116     Manufacturer: HP      Name: ProLiant DL388 Gen9  Serial: CN75120987  
+  10.4.5.117     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU542XM7X  
+  10.4.5.118                                                                          
+  10.4.5.119                                                                          
+  10.4.5.120                                                                          
+  10.4.5.121     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWE4  
+  10.4.5.122     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU609W67E  
+  10.4.5.123     Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU648B6HJ  
+  10.4.5.124     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE8L  
+  10.4.5.125     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU648B61B  
+  10.4.5.126     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU533V2EW  
+  10.4.5.128     Manufacturer: DELL    Name: PowerEdge R730       Serial: HMYFDK2                            
+  10.4.5.129     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU617WW3T  
+  10.4.5.131     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU617WW36  
+  10.4.5.132     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN76380JN4  
+  10.4.5.133     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VAV6  
+  10.4.5.134                                                                          
+  10.4.5.135     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: CN78450138  
+  10.4.5.136     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: CN78450139  
+  10.4.5.137     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: CN7845013B  
+  10.4.5.138     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: CN78450137  
+  10.4.5.139                                                                          
+  10.4.5.140     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006R  
+  10.4.5.141     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006X  
+  10.4.5.142     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006T  
+  10.4.5.143     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006G  
+  10.4.5.144     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450065  
+  10.4.5.145     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450066  
+  10.4.5.146     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006Q  
+  10.4.5.147     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005V  
+  10.4.5.148     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005K  
+  10.4.5.149                                                                          
+  10.4.5.150     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005G  
+  10.4.5.151     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006V  
+  10.4.5.152     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006D  
+  10.4.5.153                                                                          
+  10.4.5.154                                                                          
+  10.4.5.155                                                                          
+  10.4.5.156     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005Z  
+  10.4.5.157     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450052  
+  10.4.5.158     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005Y  
+  10.4.5.159                                                                          
+  10.4.5.160     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450069  
+  10.4.5.161     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450053  
+  10.4.5.162     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005R  
+  10.4.5.163     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450062  
+  10.4.5.164     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005F  
+  10.4.5.165     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450063  
+  10.4.5.166     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006C  
+  10.4.5.167     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450064  
+  10.4.5.168     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005T  
+  10.4.5.169     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006L  
+  10.4.5.170     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450055  
+  10.4.5.171     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006K  
+  10.4.5.172     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005M  
+  10.4.5.173     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006S  
+  10.4.5.174     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005B  
+  10.4.5.175     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005H  
+  10.4.5.176     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005L  
+  10.4.5.177     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005C  
+  10.4.5.178     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006H  
+  10.4.5.180     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006B  
+  10.4.5.181     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005X  
+  10.4.5.183     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006N  
+  10.4.5.184     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450058  
+  10.4.5.185     Manufacturer: Inspur  Name: SA5112M5             Serial: 819280847   
+  10.4.5.186     Manufacturer: Inspur  Name: SA5112M5             Serial: 819280848   
+  10.4.5.187     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450068  
+  10.4.5.189     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006M  
+  10.4.5.190     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450061  
+  10.4.5.191     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450056  
+  10.4.5.192     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450060  
+  10.4.5.193     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005Q  
+  10.4.5.194     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450057  
+  10.4.5.195     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006J  
+  10.4.5.196     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845005P  
+  10.4.5.199     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006Y  
+  10.4.5.200     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450071  
+  10.4.5.206     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450074  
+  10.4.5.207                                                                          
+  10.4.5.208     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007M  
+  10.4.5.209     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845006Z  
+  10.4.5.211     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450077  
+  10.4.5.212     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450073  
+  10.4.5.213     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007N  
+  10.4.5.214     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007H  
+  10.4.5.215     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007G  
+  10.4.5.216     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007D  
+  10.4.5.217     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007C  
+  10.4.5.218     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007L  
+  10.4.5.219     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450075  
+  10.4.5.220     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450078  
+  10.4.5.221     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450076  
+  10.4.5.222     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450070  
+  10.4.5.223     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007B  
+  10.4.5.227     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 4G1FWS2                            
+  10.4.5.228     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 4G0BWS2                            
+  10.4.5.229     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 4G2GWS2                            
+  10.4.5.230     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 4G3DWS2                            
+  10.4.5.231     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 4G49WS2                            
+  10.4.5.232     Manufacturer: DELL    Name: PowerEdge R730       Serial: 4F9HWS2                            
+  10.4.5.233     Manufacturer: DELL    Name: PowerEdge R730       Serial: 4F8FWS2                            
+  10.4.5.234     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2XW8WS2                            
+  10.4.5.235     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2W29WS2                            
+  10.4.5.236     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2W3HWS2                            
+  10.4.5.237     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2W2GWS2                            
+  10.4.5.238     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2W1GWS2                            
+  10.4.5.239     Manufacturer: DELL    Name: PowerEdge R730       Serial: 38BDWS2                            
+  10.4.5.240     Manufacturer: DELL    Name: PowerEdge R730       Serial: 389FWS2                            
+  10.4.5.241     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2W39WS2                            
+  10.4.5.242     Manufacturer: DELL    Name: PowerEdge R730       Serial: 38C9WS2                            
+  10.4.5.243     Manufacturer: DELL    Name: PowerEdge R730       Serial: 4BVDWS2                            
+  10.4.5.244     Manufacturer: DELL    Name: PowerEdge R730       Serial: 4BM9WS2                            
+  10.4.5.245                                                                          
+  10.4.5.246     Manufacturer: DELL    Name: PowerEdge R730       Serial: 4BQGWS2                            
+  10.4.5.247     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450072  
+  10.4.5.248     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007F  
+  10.4.5.249     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007J  
+  10.4.5.250     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450079  
+  10.4.5.251     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007P  
+  10.4.6.10      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DRJ5K2                            
+  10.4.6.11      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DRM5K2                            
+  10.4.6.12      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27HC5K2                            
+  10.4.6.13      Manufacturer: DELL    Name: PowerEdge R730       Serial: 28CJ5K2                            
+  10.4.6.14      Manufacturer: DELL    Name: PowerEdge R730       Serial: 28DH5K2                            
+  10.4.6.15      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DMD5K2                            
+  10.4.6.16      Manufacturer: DELL    Name: PowerEdge R730       Serial: 28DD5K2                            
+  10.4.6.17      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27HM5K2                            
+  10.4.6.18      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DQK5K2                            
+  10.4.6.19      Manufacturer: DELL    Name: PowerEdge R730       Serial: 28BM5K2                            
+  10.4.6.20      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DRF5K2                            
+  10.4.6.21      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DQM5K2                            
+  10.4.6.22      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27JL5K2                            
+  10.4.6.23      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2D0G5K2                            
+  10.4.6.24      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27PL5K2                            
+  10.4.6.25      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27KL5K2                            
+  10.4.6.26      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27GD5K2                            
+  10.4.6.27      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DLK5K2                            
+  10.4.6.28      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27FJ5K2                            
+  10.4.6.29      Manufacturer: DELL    Name: PowerEdge R730       Serial: 28FF5K2                            
+  10.4.6.30      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27NK5K2                            
+  10.4.6.31      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27SF5K2                            
+  10.4.6.32      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTPZG2                            
+  10.4.6.33      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTNZG2                            
+  10.4.6.34      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXV90H2                            
+  10.4.6.35      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVLZG2                            
+  10.4.6.36      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTTZG2                            
+  10.4.6.37      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWNZG2                            
+  10.4.6.38      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXV50H2                            
+  10.4.6.39      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXV80H2                            
+  10.4.6.40      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWF0H2                            
+  10.4.6.41      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVPZG2                            
+  10.4.6.42      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWLZG2                            
+  10.4.6.43      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXW80H2                            
+  10.4.6.44      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVVZG2                            
+  10.4.6.45      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWD0H2                            
+  10.4.6.46      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWQZG2                            
+  10.4.6.47      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVD0H2                            
+  10.4.6.48      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXWTZG2                            
+  10.4.6.49      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTRZG2                            
+  10.4.6.50      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTLZG2                            
+  10.4.6.51      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTMZG2                            
+  10.4.6.54      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXV70H2                            
+  10.4.6.55      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVF0H2                            
+  10.4.6.57      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXV60H2                            
+  10.4.6.58      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVMZG2                            
+  10.4.6.59      Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTQZG2                            
+  10.4.6.60      Manufacturer: DELL    Name: PowerEdge R730       Serial: 27JG5K2                            
+  10.4.6.61      Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DKK5K2                            
+  10.4.6.62                                                                           
+  10.4.6.63                                                                           
+  10.4.6.64                                                                           
+  10.4.6.65      Manufacturer: Inspur  Name: SA5212M4             Serial: 817212243   
+  10.4.6.66                                                                           
+  10.4.6.67                                                                           
+  10.4.6.68                                                                           
+  10.4.6.69                                                                           
+  10.4.6.70                                                                           
+  10.4.6.71                                                                           
+  10.4.6.72      Manufacturer: Inspur  Name: SA5212M4             Serial: 817211223   
+  10.4.6.73                                                                           
+  10.4.6.74                                                                           
+  10.4.6.75      Manufacturer: Inspur  Name: SA5212M4             Serial: 817304445   
+  10.4.6.76      Manufacturer: Inspur  Name: SA5212M4             Serial: 817304442   
+  10.4.6.77      Manufacturer: Inspur  Name: SA5212M4             Serial: 817304443   
+  10.4.6.78      Manufacturer: Inspur  Name: SA5212M4             Serial: 817304444   
+  10.4.6.79      Manufacturer: Inspur  Name: SA5212M4             Serial: 817304436   
+  10.4.6.81      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSRH  
+  10.4.6.82      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSRA  
+  10.4.6.85      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSPH  
+  10.4.6.86      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSMA  
+  10.4.6.88      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSMH  
+  10.4.6.90      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSMP  
+  10.4.6.91      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCDR  
+  10.4.6.92      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCEY  
+  10.4.6.93      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCH5  
+  10.4.6.94      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCD5  
+  10.4.6.95      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCEB  
+  10.4.6.96      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WCFJ  
+  10.4.6.120     Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CZK5K2                            
+  10.4.6.122     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU616VBYP  
+  10.4.6.123     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU625WC88  
+  10.4.6.125     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212231   
+  10.4.6.126     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212241   
+  10.4.6.127     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212250   
+  10.4.6.128     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211236   
+  10.4.6.129     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212219   
+  10.4.6.130     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211231   
+  10.4.6.131     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212217   
+  10.4.6.132     Manufacturer: DELL    Name: PowerEdge R730       Serial: 27VM5K2                            
+  10.4.6.173     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4YHDN2                            
+  10.4.6.174     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H51BDN2                            
+  10.4.6.175     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H51FDN2                            
+  10.4.6.176     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H5PHDN2                            
+  10.4.6.177     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7FHDN2                            
+  10.4.6.178     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7CHDN2                            
+  10.4.6.179     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7D9DN2                            
+  10.4.6.180     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7Q7DN2                            
+  10.4.6.181     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H5PDDN2                            
+  10.4.6.182     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4Y7DN2                            
+  10.4.6.183     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H5PFDN2                            
+  10.4.6.184     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H5Q7DN2                            
+  10.4.6.185     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H5PGDN2                            
+  10.4.6.186     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6BFDN2                            
+  10.4.6.187     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6BJDN2                            
+  10.4.6.188     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238181   
+  10.4.6.189     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238182   
+  10.4.6.190     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238184   
+  10.4.6.191     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238189   
+  10.4.6.192     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238186   
+  10.4.6.193     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238187   
+  10.4.6.194     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238180   
+  10.4.6.195     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238188   
+  10.4.6.196     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238183   
+  10.4.6.197     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238179   
+  10.4.6.198     Manufacturer: Inspur  Name: SA5212M4             Serial: 218238185   
+  10.4.6.199     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956R7  
+  10.4.6.200     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956L1  
+  10.4.6.201     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956MD  
+  10.4.6.202     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956NB  
+  10.4.6.203     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956P9  
+  10.4.6.204     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956PR  
+  10.4.6.205     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956LY  
+  10.4.6.206     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956NT  
+  10.4.6.207     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956MW  
+  10.4.6.208     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU80956LF  
+  10.4.6.209     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DHY  
+  10.4.6.210     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DKJ  
+  10.4.6.211     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DM5  
+  10.4.6.212     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DLB  
+  10.4.6.213     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DMJ  
+  10.4.6.214     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DLR  
+  10.4.6.215     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DJB  
+  10.4.6.216     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DKY  
+  10.4.6.217     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DK5  
+  10.4.6.218     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU6411DJR  
+  10.4.6.219     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212229   
+  10.4.6.220     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211230   
+  10.4.6.221     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211238   
+  10.4.6.222     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212234   
+  10.4.6.223     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211217   
+  10.4.6.224     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212222   
+  10.4.6.225     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211222   
+  10.4.6.226     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212233   
+  10.4.6.227     Manufacturer: Inspur  Name: SA5212M4             Serial: 817304437   
+  10.4.6.228     Manufacturer: Inspur  Name: SA5212M4             Serial: 817304438   
+  10.4.6.229     Manufacturer: Inspur  Name: SA5212M4             Serial: 817304439   
+  10.4.6.230     Manufacturer: Inspur  Name: SA5212M4             Serial: 817304440   
+  10.4.6.231     Manufacturer: Inspur  Name: SA5212M4             Serial: 817304441   
+  10.4.6.232     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212235   
+  10.4.6.233                                                                          
+  10.4.6.234                                                                          
+  10.4.6.235     Manufacturer: Inspur  Name: SA5212M4             Serial: 817211226   
+  10.4.6.236     Manufacturer: DELL    Name: EDW       Serial     :     1X48232                                   
+  10.4.6.237     Manufacturer: DELL    Name: PowerEdge T630       Serial: 74R5LN2                            
+  10.4.6.239                                                                          
+  10.4.6.240                                                                          
+  10.4.6.241                                                                          
+  10.4.6.242                                                                          
+  10.4.6.244     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSP4  
+  10.4.6.245     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSRP  
+  10.4.6.246     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSNH  
+  10.4.6.247     Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU616YSRX  
+  10.4.7.10      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGYRG2                            
+  10.4.7.11      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1DF2                            
+  10.4.7.12      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1HJ2                            
+  10.4.7.13      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXL82                            
+  10.4.7.14      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0HJ2                            
+  10.4.7.15      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0M82                            
+  10.4.7.16      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0PD2                            
+  10.4.7.17      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1KL2                            
+  10.4.7.18      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGSL82                            
+  10.4.7.19      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGSWG2                            
+  10.4.7.49      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZ9C2                            
+  10.4.7.50      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH19K2                            
+  10.4.7.51      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXB72                            
+  10.4.7.52      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGWYC2                            
+  10.4.7.53      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH2CP2                            
+  10.4.7.54      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH02M2                            
+  10.4.7.55      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1S62                            
+  10.4.7.56      Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZVN2                            
+  10.4.7.83      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416096   
+  10.4.7.84      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416097   
+  10.4.7.85      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416094   
+  10.4.7.86      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416095   
+  10.4.7.87      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416099   
+  10.4.7.88      Manufacturer: Inspur  Name: SA5212M4             Serial: 818416098   
+  10.4.7.89      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDT4  
+  10.4.7.90      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDTQ  
+  10.4.7.91      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDTB  
+  10.4.7.92      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDQF  
+  10.4.7.93      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDRZ  
+  10.4.7.94      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDR0  
+  10.4.7.95      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDSR  
+  10.4.7.96      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDR6  
+  10.4.7.97      Manufacturer: HP      Name: ProLiant DL380 Gen9  Serial: 6CU833LDS5  
+  10.4.7.98                                                                           
+  10.4.7.99                                                                           
+  10.4.7.100                                                                          
+  10.4.7.101                                                                          
+  10.4.7.102                                                                          
+  10.4.7.103                                                                          
+  10.4.7.104                                                                          
+  10.4.7.105                                                                          
+  10.4.7.106                                                                          
+  10.4.7.107     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198972   
+  10.4.7.108     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198966   
+  10.4.7.109     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198963   
+  10.4.7.110     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198352   
+  10.4.7.111     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450087  
+  10.4.7.112     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845008C  
+  10.4.7.113     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450089  
+  10.4.7.114     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450088  
+  10.4.7.115     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845008B  
+  10.4.7.116     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450086  
+  10.4.7.117     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450085  
+  10.4.7.118     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78450084  
+  10.4.7.120     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN78460272  
+  10.4.7.121     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198353   
+  10.4.7.122     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198354   
+  10.4.7.123     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198355   
+  10.4.7.124     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198356   
+  10.4.7.125     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198358   
+  10.4.7.126     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198357   
+  10.4.7.127     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198359   
+  10.4.7.128     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198360   
+  10.4.7.129     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198361   
+  10.4.7.130     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198362   
+  10.4.7.131     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198363   
+  10.4.7.132     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198364   
+  10.4.7.133     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198365   
+  10.4.7.134     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198959   
+  10.4.7.135     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198958   
+  10.4.7.136     Manufacturer: Inspur  Name: NF5280M5             Serial: 219182932   
+  10.4.7.137     Manufacturer: Inspur  Name: NF5280M5             Serial: 219182931   
+  10.4.7.138     Manufacturer: Inspur  Name: NF5280M5             Serial: 219182930   
+  10.4.7.139     Manufacturer: Inspur  Name: NF5280M5             Serial: 219182929   
+  10.4.7.140     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198964   
+  10.4.7.141     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198971   
+  10.4.7.142     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198968   
+  10.4.7.143     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198965   
+  10.4.7.144     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198970   
+  10.4.7.145     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198967   
+  10.4.7.146     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198969   
+  10.4.7.147     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199395   
+  10.4.7.148     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199394   
+  10.4.7.149     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199386   
+  10.4.7.150     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199402   
+  10.4.7.151     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199380   
+  10.4.7.152     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199373   
+  10.4.7.153     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199401   
+  10.4.7.154     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199381   
+  10.4.7.155     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199387   
+  10.4.7.156     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199397   
+  10.4.7.157     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199400   
+  10.4.7.158     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199392   
+  10.4.7.159     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199393   
+  10.4.7.160     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199389   
+  10.4.7.161     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199399   
+  10.4.7.162     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199497   
+  10.4.7.163     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212232   
+  10.4.7.164     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212239   
+  10.4.7.165     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212246   
+  10.4.7.166     Manufacturer: Inspur  Name: SA5212M4             Serial: 817212251   
+  10.4.7.167     Manufacturer: Inspur  Name: SA5212M5             Serial: 819265199   
+  10.4.7.168     Manufacturer: Inspur  Name: SA5212M5             Serial: 819265200   
+  10.4.7.169     Manufacturer: Inspur  Name: SA5212M5             Serial: 819265201   
+  10.4.7.170     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228659   
+  10.4.7.171     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228662   
+  10.4.7.172     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228656   
+  10.4.7.173     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228661   
+  10.4.7.174     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228660   
+  10.4.7.175     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228664   
+  10.4.7.176     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228666   
+  10.4.7.177     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228658   
+  10.4.7.178     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228657   
+  10.4.7.179     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228665   
+  10.4.7.180     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228663   
+  10.4.7.181     Manufacturer: Inspur  Name: NF5280M5             Serial: 819328976   
+  10.4.7.182     Manufacturer: Inspur  Name: NF5280M5             Serial: 819328977   
+  10.4.7.183     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242187   
+  10.4.7.184     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242188   
+  10.4.7.204                                                                          
+  10.4.7.205                                                                          
+  10.4.7.206                                                                          
+  10.4.7.207                                                                          
+  10.4.7.208                                                                          
+  10.4.7.209                                                                          
+  10.4.7.210                                                                          
+  10.4.7.211                                                                          
+  10.4.7.212                                                                          
+  10.4.7.213                                                                          
+  10.4.7.214                                                                          
+  10.4.7.215                                                                          
+  10.4.7.216                                                                          
+  10.4.7.217                                                                          
+  10.4.7.218                                                                          
+  10.4.7.219                                                                          
+  10.4.7.220                                                                          
+  10.4.7.221                                                                          
+  10.4.7.222                                                                          
+  10.4.7.223                                                                          
+  10.4.7.224                                                                          
+  10.4.7.225                                                                          
+  10.4.7.226                                                                          
+  10.4.7.227                                                                          
+  10.4.7.228                                                                          
+  10.4.7.229                                                                          
+  10.4.7.230                                                                          
+  10.4.7.231                                                                          
+  10.4.7.232                                                                          
+  10.4.7.233                                                                          
+  10.4.7.234                                                                          
+  10.4.7.235                                                                          
+  10.4.7.236                                                                          
+  10.4.7.237                                                                          
+  10.4.7.238                                                                          
+  10.4.7.239                                                                          
+  10.4.7.240                                                                          
+  10.4.7.241                                                                          
+  10.4.7.242                                                                          
+  10.4.7.243                                                                          
+  10.4.7.244                                                                          
+  10.4.7.245                                                                          
+  10.4.7.246                                                                          
+  10.4.7.247                                                                          
+  10.4.7.248                                                                          
+  10.4.24.11                                                                          
+  10.4.24.12                                                                          
+  10.4.24.13                                                                          
+  10.4.24.14                                                                          
+  10.4.24.15                                                                          
+  10.4.24.17                                                                          
+  10.4.24.18     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.19     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.20     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.21                                                                          
+  10.4.24.22     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.23     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.24     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.25     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.26     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.27     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.28                                                                          
+  10.4.24.29                                                                          
+  10.4.24.30                                                                          
+  10.4.24.31                                                                          
+  10.4.24.32                                                                          
+  10.4.24.33     Manufacturer: HP      Name: HP       ProLiantBL460cGen9  Serial:           
+  10.4.24.34                                                                          
+  10.4.24.35                                                                          
+  10.4.24.36     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230845   
+  10.4.24.37     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230846   
+  10.4.24.38     Manufacturer: Inspur  Name: SA5112M4             Serial: 818230848   
+  10.4.24.39     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956KN  
+  10.4.24.40     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956KD  
+  10.4.24.41     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956HY  
+  10.4.24.42     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956JB  
+  10.4.24.43     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956HT  
+  10.4.24.44     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956K9  
+  10.4.24.45     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956HN  
+  10.4.24.46     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956JL  
+  10.4.24.47     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956KT  
+  10.4.24.48     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956KJ  
+  10.4.24.49     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956JF  
+  10.4.24.50     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956K5  
+  10.4.24.51     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956J7  
+  10.4.24.57     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957AC  
+  10.4.24.58     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809578R  
+  10.4.24.59     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957EB  
+  10.4.24.60     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957J5  
+  10.4.24.61     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957NB  
+  10.4.24.62     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957JV  
+  10.4.24.63     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957HE  
+  10.4.24.64     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957FR  
+  10.4.24.65     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957AV  
+  10.4.24.66     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957CP  
+  10.4.24.67     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957CY  
+  10.4.24.68     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809577B  
+  10.4.24.69     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957A5  
+  10.4.24.70     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095774  
+  10.4.24.71     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957BJ  
+  10.4.24.72     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957F2  
+  10.4.24.73     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957KJ  
+  10.4.24.74     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957LY  
+  10.4.24.75     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU8095766  
+  10.4.24.76     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957AL  
+  10.4.24.77     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809577T  
+  10.4.24.78     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957H0  
+  10.4.24.79     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80956WC  
+  10.4.24.80     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809571C  
+  10.4.24.81     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957MW  
+  10.4.24.82     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU809579N  
+  10.4.24.83     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957JC  
+  10.4.24.84     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957C8  
+  10.4.24.85     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957EK  
+  10.4.24.86     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU80957L8  
+  10.4.24.87     Manufacturer: DELL    Name: PowerEdge R730       Serial: H598DN2                            
+  10.4.24.88                                                                          
+  10.4.24.89     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE8W  
+  10.4.24.90     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE9J  
+  10.4.24.92     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEBD  
+  10.4.24.93     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE5D  
+  10.4.24.94     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE5Y  
+  10.4.24.95     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEBT  
+  10.4.24.96     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEB9  
+  10.4.24.97     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE5T  
+  10.4.24.98     Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU739PEXY  
+  10.4.24.99     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 537KZH2                            
+  10.4.24.100    Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU626Y9NY  
+  10.4.24.101    Manufacturer: HP      Name: ProLiant DL180 Gen9  Serial: 6CU626Y9MJ  
+  10.4.24.103    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE91  
+  10.4.24.104    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU650EWE0  
+  10.4.24.105    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE9Y  
+  10.4.24.106    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE99  
+  10.4.24.108    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JEB5  
+  10.4.24.109    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE7D  
+  10.4.24.110                                                                         
+  10.4.24.112    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2C9H5K2                            
+  10.4.24.113    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2C9D5K2                            
+  10.4.24.114    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE5N  
+  10.4.24.115    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: 6CU719JE7T  
+  10.4.24.118    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN7845007K  
+  10.4.24.119    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GS9  
+  10.4.24.120    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT4  
+  10.4.24.121    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSL  
+  10.4.24.122    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSJ  
+  10.4.24.123    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSQ  
+  10.4.24.124    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSG  
+  10.4.24.125    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSN  
+  10.4.24.126    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTD  
+  10.4.24.127    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT1  
+  10.4.24.128    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT3  
+  10.4.24.129    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTJ  
+  10.4.24.130    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTL  
+  10.4.24.131    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GST  
+  10.4.24.132    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSM  
+  10.4.24.133    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT7  
+  10.4.24.134    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTH  
+  10.4.24.135    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GS7  
+  10.4.24.136    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GS8  
+  10.4.24.137    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTK  
+  10.4.24.138    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSK  
+  10.4.24.139    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042X  
+  10.4.24.140    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042P  
+  10.4.24.141    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290424  
+  10.4.24.142    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041N  
+  10.4.24.143    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041X  
+  10.4.24.144    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042F  
+  10.4.24.145    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290421  
+  10.4.24.146    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290422  
+  10.4.24.147    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290427  
+  10.4.24.148    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041P  
+  10.4.24.149    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042H  
+  10.4.24.150    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290426  
+  10.4.24.151    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042L  
+  10.4.24.152    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042J  
+  10.4.24.153    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042G  
+  10.4.24.154    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290429  
+  10.4.24.155    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290425  
+  10.4.24.156    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042C  
+  10.4.25.10                                                                          
+  10.4.25.11     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HPD4W2                            
+  10.4.25.12     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HPB4W2                            
+  10.4.25.13     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HND4W2                            
+  10.4.25.14     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JVC4W2                            
+  10.4.25.15     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JW94W2                            
+  10.4.25.16     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JWC4W2                            
+  10.4.25.17     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JVJ4W2                            
+  10.4.25.18     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HMH4W2                            
+  10.4.25.19     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HMG4W2                            
+  10.4.25.20     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HPF4W2                            
+  10.4.25.21     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HNG4W2                            
+  10.4.25.22     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JWF4W2                            
+  10.4.25.23     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5GZG4W2                            
+  10.4.25.24     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HMJ4W2                            
+  10.4.25.25     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JMJ4W2                            
+  10.4.25.26     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JN94W2                            
+  10.4.25.27     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5H0C4W2                            
+  10.4.25.28     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JNC4W2                            
+  10.4.25.29     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JMD4W2                            
+  10.4.25.30     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5JNH4W2                            
+  10.4.25.31     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5GYF4W2                            
+  10.4.25.32     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HFC4W2                            
+  10.4.25.33     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HGC4W2                            
+  10.4.25.34     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HDG4W2                            
+  10.4.25.35     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HFG4W2                            
+  10.4.25.36     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HFK4W2                            
+  10.4.25.37     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5GXH4W2                            
+  10.4.25.38     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5GZ94W2                            
+  10.4.25.39     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DLD4W2                            
+  10.4.25.40     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DMG4W2                            
+  10.4.25.41     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DJJ4W2                            
+  10.4.25.42     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DKG4W2                            
+  10.4.25.43     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HMC4W2                            
+  10.4.25.44     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 5HMF4W2                            
+  10.4.25.45     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DBK4W2                            
+  10.4.25.46     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DBH4W2                            
+  10.4.25.47     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6D9K4W2                            
+  10.4.25.48     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6D994W2                            
+  10.4.25.49     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DBF4W2                            
+  10.4.25.50     Manufacturer: DELL    Name: PowerEdge R740xd     Serial: 6DHK4W2                            
+  10.4.25.51     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199411   
+  10.4.25.52     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199410   
+  10.4.25.53     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199405   
+  10.4.25.54     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199414   
+  10.4.25.55     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199415   
+  10.4.25.56     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199416   
+  10.4.25.57     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199418   
+  10.4.25.58     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199419   
+  10.4.25.59     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199420   
+  10.4.25.60     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199551   
+  10.4.25.61     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199553   
+  10.4.25.62     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199486   
+  10.4.25.63     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199470   
+  10.4.25.64     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199532   
+  10.4.25.65     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199543   
+  10.4.25.66     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199474   
+  10.4.25.67     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199494   
+  10.4.25.68     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199471   
+  10.4.25.69     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199480   
+  10.4.25.70     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199412   
+  10.4.25.71     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199413   
+  10.4.25.72     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199541   
+  10.4.25.73     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199540   
+  10.4.25.74     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199559   
+  10.4.25.75     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199490   
+  10.4.25.76     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199473   
+  10.4.25.77     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199525   
+  10.4.25.78     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199496   
+  10.4.25.79     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199535   
+  10.4.25.80     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199488   
+  10.4.25.81     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199520   
+  10.4.25.82     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199504   
+  10.4.25.83     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199500   
+  10.4.25.84                                                                          
+  10.4.25.85     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199521   
+  10.4.25.86     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199484   
+  10.4.25.87     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199549   
+  10.4.25.88     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199515   
+  10.4.25.89     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199545   
+  10.4.25.90     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199407   
+  10.4.25.91     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199550   
+  10.4.25.92     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199523   
+  10.4.25.93     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199513   
+  10.4.25.94     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199530   
+  10.4.25.95     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199502   
+  10.4.25.96     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199552   
+  10.4.25.97     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199481   
+  10.4.25.98     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199406   
+  10.4.25.99     Manufacturer: Inspur  Name: SA5212M5             Serial: 719199554   
+  10.4.25.100    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199529   
+  10.4.25.101    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199510   
+  10.4.25.102    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199495   
+  10.4.25.103    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199548   
+  10.4.25.104    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199534   
+  10.4.25.105    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199544   
+  10.4.25.106    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199409   
+  10.4.25.107    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199417   
+  10.4.25.108    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199557   
+  10.4.25.109    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199524   
+  10.4.25.110    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199476   
+  10.4.25.111    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199560   
+  10.4.25.112    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199485   
+  10.4.25.113    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199503   
+  10.4.25.114    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199519   
+  10.4.25.115    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199478   
+  10.4.25.116    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199506   
+  10.4.25.117    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199514   
+  10.4.25.118    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199538   
+  10.4.25.119    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199516   
+  10.4.25.120    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199475   
+  10.4.25.121    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199547   
+  10.4.25.122    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199508   
+  10.4.25.123    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199542   
+  10.4.25.124    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199493   
+  10.4.25.125    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199408   
+  10.4.25.126    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199491   
+  10.4.25.127    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199472   
+  10.4.25.128    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199479   
+  10.4.25.129    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199498   
+  10.4.25.130    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199539   
+  10.4.25.131    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199469   
+  10.4.25.132    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199421   
+  10.4.25.133    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199533   
+  10.4.25.134    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199558   
+  10.4.25.135    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199522   
+  10.4.25.136    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199505   
+  10.4.25.137    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199528   
+  10.4.25.138    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199483   
+  10.4.25.139    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199527   
+  10.4.25.140    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199526   
+  10.4.25.141    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199518   
+  10.4.25.142    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199512   
+  10.4.25.143    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199511   
+  10.4.25.144    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199536   
+  10.4.25.145    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199537   
+  10.4.25.146    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199489   
+  10.4.25.147    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199546   
+  10.4.25.148    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199531   
+  10.4.25.149    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199507   
+  10.4.25.150    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199404   
+  10.4.25.151    Manufacturer: DELL    Name: PowerEdge R730       Serial: HXTF0H2                            
+  10.4.25.152    Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVNZG2                            
+  10.4.25.153    Manufacturer: DELL    Name: PowerEdge R730       Serial: HXVC0H2                            
+  10.4.25.154    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212218   
+  10.4.25.155    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229888   
+  10.4.25.156    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229889   
+  10.4.25.157    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229890   
+  10.4.25.158    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229891   
+  10.4.25.159    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DJM5K2                            
+  10.4.25.160    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199492   
+  10.4.25.161    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199477   
+  10.4.25.162    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199482   
+  10.4.25.163    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199487   
+  10.4.25.164    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199517   
+  10.4.25.165    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199501   
+  10.4.25.166    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199509   
+  10.4.25.167    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199555   
+  10.4.25.168    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199499   
+  10.4.25.169    Manufacturer: Inspur  Name: SA5212M5             Serial: 719199556   
+  10.4.25.170    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227769   
+  10.4.25.171    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227768   
+  10.4.25.172    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227770   
+  10.4.25.173    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227767   
+  10.4.25.174    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227772   
+  10.4.25.175    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227766   
+  10.4.25.176                                                                         
+  10.4.25.177    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227771   
+  10.4.25.178    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227773   
+  10.4.25.179    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227746   
+  10.4.25.180    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227745   
+  10.4.25.181    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227743   
+  10.4.25.182    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227748   
+  10.4.25.183    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227747   
+  10.4.25.184    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0YL2                            
+  10.4.25.185    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH12K2                            
+  10.4.25.186    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1MG2                            
+  10.4.25.187    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0WN2                            
+  10.4.25.188    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH04D2                            
+  10.4.25.189    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227750   
+  10.4.25.190    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227758   
+  10.4.25.191    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227755   
+  10.4.25.192    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227757   
+  10.4.25.193    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227756   
+  10.4.25.194    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229892   
+  10.4.25.195    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229893   
+  10.4.25.196    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229906   
+  10.4.25.197    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229905   
+  10.4.25.198    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229904   
+  10.4.25.199    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229903   
+  10.4.25.200    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229902   
+  10.4.25.201    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229901   
+  10.4.25.202    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229900   
+  10.4.25.203    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229899   
+  10.4.25.204    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229898   
+  10.4.25.205    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229897   
+  10.4.25.206    Manufacturer: Inspur  Name: SA5212M5             Serial: 719229896   
+  10.4.25.207    Manufacturer: DELL    Name: PowerEdge R730       Serial: 29BL5K2                            
+  10.4.25.208    Manufacturer: DELL    Name: PowerEdge R730       Serial: 29BG5K2                            
+  10.4.25.209    Manufacturer: DELL    Name: PowerEdge R730       Serial: 29CL5K2                            
+  10.4.25.210    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2DLF5K2                            
+  10.4.25.211                                                                         
+  10.4.25.212    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2CYM5K2                            
+  10.4.25.213    Manufacturer: Inspur  Name: SA5212M4             Serial: 817211215   
+  10.4.25.214    Manufacturer: Inspur  Name: SA5212M4             Serial: 817211229   
+  10.4.25.215    Manufacturer: Inspur  Name: SA5212M4             Serial: 817211233   
+  10.4.25.216    Manufacturer: Inspur  Name: SA5212M4             Serial: 817211239   
+  10.4.25.217    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212215   
+  10.4.25.218    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212220   
+  10.4.25.219    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212255   
+  10.4.25.220    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212216   
+  10.4.25.221    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212236   
+  10.4.25.222    Manufacturer: Inspur  Name: SA5212M4             Serial: 817212249   
+  10.4.25.223    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZGJ2                            
+  10.4.25.224    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0XG2                            
+  10.4.25.225    Manufacturer: DELL    Name: PowerEdge R730       Serial: 2D1D5K2                            
+  10.4.25.226    Manufacturer: Inspur  Name: SA5212M4             Serial: 817395236   
+  10.4.25.227    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZB72                            
+  10.4.25.228    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZGQ2                            
+  10.4.25.229    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZKF2                            
+  10.4.25.230    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZJL2                            
+  10.4.25.231    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH24D2                            
+  10.4.25.232    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH18C2                            
+  10.4.25.233    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1GD2                            
+  10.4.25.234    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1C72                            
+  10.4.25.235    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0C72                            
+  10.4.25.236    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH08C2                            
+  10.4.25.237    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH14D2                            
+  10.4.25.238    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0GQ2                            
+  10.4.25.239    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH12M2                            
+  10.4.25.240    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZFQ2                            
+  10.4.25.241    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZBP2                            
+  10.4.25.242    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1XJ2                            
+  10.4.25.243    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0BC2                            
+  10.4.25.244    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH09K2                            
+  10.4.25.245    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0CP2                            
+  10.4.25.246    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZ1M2                            
+  10.4.25.247    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1H62                            
+  10.4.25.248    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZCF2                            
+  10.4.25.249    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0DF2                            
+  10.4.25.250    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZHD2                            
+  10.4.25.251    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0GM2                            
+  10.4.25.252    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXKF2                            
+  10.4.25.253    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXLG2                            
+  10.4.25.254    Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXJG2                            
+  10.4.26.11                                                                          
+  10.4.26.12                                                                          
+  10.4.26.18                                                                          
+  10.4.26.19                                                                          
+  10.4.26.20                                                                          
+  10.4.26.21                                                                          
+  10.4.26.22                                                                          
+  10.4.26.23                                                                          
+  10.4.26.24                                                                          
+  10.4.26.25                                                                          
+  10.4.26.26                                                                          
+  10.4.26.27                                                                          
+  10.4.26.28                                                                          
+  10.4.26.29                                                                          
+  10.4.26.30                                                                          
+  10.4.26.31     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0WL2                            
+  10.4.26.32     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGXHD2                            
+  10.4.26.33     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0KL2                            
+  10.4.26.34     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZ7C2                            
+  10.4.26.35     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZ1K2                            
+  10.4.26.36     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7P9DN2                            
+  10.4.26.37     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7GGDN2                            
+  10.4.26.38     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7KCDN2                            
+  10.4.26.39     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7NBDN2                            
+  10.4.26.40     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7M8DN2                            
+  10.4.26.41     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G87JDN2                            
+  10.4.26.42                                                                          
+  10.4.26.43     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H618DN2                            
+  10.4.26.44     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H64GDN2                            
+  10.4.26.45     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H62GDN2                            
+  10.4.26.46     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGWS72                            
+  10.4.26.47     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZXL2                            
+  10.4.26.48                                                                          
+  10.4.26.49     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGWLG2                            
+  10.4.26.50     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGSZG2                            
+  10.4.26.51     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6BGDN2                            
+  10.4.26.52     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G89CDN2                            
+  10.4.26.53     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H629DN2                            
+  10.4.26.54     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G88JDN2                            
+  10.4.26.55     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H7DGDN2                            
+  10.4.26.56     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4T8DN2                            
+  10.4.26.57     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6BDDN2                            
+  10.4.26.58     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6C9DN2                            
+  10.4.26.59     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6CCDN2                            
+  10.4.26.60     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4VFDN2                            
+  10.4.26.61     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGYVL2                            
+  10.4.26.62     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH02K2                            
+  10.4.26.63     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH2BC2                            
+  10.4.26.64     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH0GD2                            
+  10.4.26.65     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1K82                            
+  10.4.26.66     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4XBDN2                            
+  10.4.26.67     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H50FDN2                            
+  10.4.26.68     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4WDDN2                            
+  10.4.26.69     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H42HDN2                            
+  10.4.26.70     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H41CDN2                            
+  10.4.26.71     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H3ZGDN2                            
+  10.4.26.72     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4WGDN2                            
+  10.4.26.73     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H509DN2                            
+  10.4.26.74     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H518DN2                            
+  10.4.26.75     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6C8DN2                            
+  10.4.26.76     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1PD2                            
+  10.4.26.77     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1KG2                            
+  10.4.26.78     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGZWG2                            
+  10.4.26.79     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZH1GM2                            
+  10.4.26.80     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: JZGX1M2                            
+  10.4.26.81     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6CBDN2                            
+  10.4.26.82     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4SDDN2                            
+  10.4.26.83     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4VBDN2                            
+  10.4.26.84     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6BHDN2                            
+  10.4.26.85     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G839DN2                            
+  10.4.26.86     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G829DN2                            
+  10.4.26.87     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H6CDDN2                            
+  10.4.26.88     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: G7ZCDN2                            
+  10.4.26.89     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: H4YGDN2                            
+  10.4.26.90     Manufacturer: DELL    Name: PowerEdge R730xd     Serial: 1YYBLN2                            
+  10.4.27.14     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198962   
+  10.4.27.15     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198961   
+  10.4.27.16     Manufacturer: Inspur  Name: SA5212M5             Serial: 719198960   
+  10.4.27.37     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198389   
+  10.4.27.38     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198388   
+  10.4.27.39     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198387   
+  10.4.27.40     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198386   
+  10.4.27.41     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198385   
+  10.4.27.42     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198384   
+  10.4.27.43     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198383   
+  10.4.27.44     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198382   
+  10.4.27.45     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198381   
+  10.4.27.46     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198380   
+  10.4.27.47     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198379   
+  10.4.27.48     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198378   
+  10.4.27.49     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198377   
+  10.4.27.50     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198376   
+  10.4.27.51     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198375   
+  10.4.27.52     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198374   
+  10.4.27.53     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198373   
+  10.4.27.54     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198372   
+  10.4.27.55     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198371   
+  10.4.27.56     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198370   
+  10.4.27.57     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198369   
+  10.4.27.58     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198368   
+  10.4.27.59     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198367   
+  10.4.27.60     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198366   
+  10.4.27.61     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198390   
+  10.4.27.62     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198391   
+  10.4.27.63     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198392   
+  10.4.27.64     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198393   
+  10.4.27.65     Manufacturer: Inspur  Name: SA5112M5             Serial: 719198394   
+  10.4.27.66     Manufacturer: DELL    Name: PowerEdge R740       Serial: FN3F0W2                            
+  10.4.27.67     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMKG0W2                            
+  10.4.27.68     Manufacturer: DELL    Name: PowerEdge R740       Serial: GV2J0W2                            
+  10.4.27.69     Manufacturer: DELL    Name: PowerEdge R740       Serial: GV2L0W2                            
+  10.4.27.70     Manufacturer: DELL    Name: PowerEdge R740       Serial: GWVL0W2                            
+  10.4.27.71     Manufacturer: DELL    Name: PowerEdge R740       Serial: GV2H0W2                            
+  10.4.27.72     Manufacturer: DELL    Name: PowerEdge R740       Serial: GV2M0W2                            
+  10.4.27.73     Manufacturer: DELL    Name: PowerEdge R740       Serial: GV2K0W2                            
+  10.4.27.74     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMJF0W2                            
+  10.4.27.75     Manufacturer: DELL    Name: PowerEdge R740       Serial: GWVC0W2                            
+  10.4.27.76     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMMH0W2                            
+  10.4.27.77     Manufacturer: DELL    Name: PowerEdge R740       Serial: FM9D0W2                            
+  10.4.27.78     Manufacturer: DELL    Name: PowerEdge R740       Serial: FM9K0W2                            
+  10.4.27.79     Manufacturer: DELL    Name: PowerEdge R740       Serial: FN1M0W2                            
+  10.4.27.80     Manufacturer: DELL    Name: PowerEdge R740       Serial: GWTD0W2                            
+  10.4.27.81     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMLG0W2                            
+  10.4.27.82     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMGJ0W2                            
+  10.4.27.83     Manufacturer: DELL    Name: PowerEdge R740       Serial: FN4H0W2                            
+  10.4.27.84     Manufacturer: DELL    Name: PowerEdge R740       Serial: FN5G0W2                            
+  10.4.27.85     Manufacturer: DELL    Name: PowerEdge R740       Serial: FM7L0W2                            
+  10.4.27.86     Manufacturer: DELL    Name: PowerEdge R740       Serial: FN7D0W2                            
+  10.4.27.87     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMKF0W2                            
+  10.4.27.88     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMGL0W2                            
+  10.4.27.89     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMMF0W2                            
+  10.4.27.90     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMLF0W2                            
+  10.4.27.91     Manufacturer: DELL    Name: PowerEdge R740       Serial: FM8J0W2                            
+  10.4.27.92     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMMK0W2                            
+  10.4.27.93     Manufacturer: DELL    Name: PowerEdge R740       Serial: FMBD0W2                            
+  10.4.27.94     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199379   
+  10.4.27.95     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199385   
+  10.4.27.96     Manufacturer: Inspur  Name: SA5112M5             Serial: 719199388   
+  10.4.27.97     Manufacturer: Inspur  Name: SA5112M5             Serial: 719227729   
+  10.4.27.98     Manufacturer: Inspur  Name: SA5112M5             Serial: 719227727   
+  10.4.27.99     Manufacturer: Inspur  Name: SA5112M5             Serial: 719227687   
+  10.4.27.100    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227710   
+  10.4.27.101    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227700   
+  10.4.27.102    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227733   
+  10.4.27.103    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227723   
+  10.4.27.104    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227685   
+  10.4.27.105    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227701   
+  10.4.27.106    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227728   
+  10.4.27.107    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227696   
+  10.4.27.108    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227731   
+  10.4.27.109    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227721   
+  10.4.27.110    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227718   
+  10.4.27.112    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227681   
+  10.4.27.113    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227686   
+  10.4.27.114    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227695   
+  10.4.27.115    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227704   
+  10.4.27.116    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227689   
+  10.4.27.118    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227726   
+  10.4.27.119    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227711   
+  10.4.27.120    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227720   
+  10.4.27.121    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227714   
+  10.4.27.122    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227688   
+  10.4.27.123    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227682   
+  10.4.27.124    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227716   
+  10.4.27.125    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227683   
+  10.4.27.127    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227732   
+  10.4.27.128    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000T3  
+  10.4.27.129    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000T6  
+  10.4.27.130    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000T8  
+  10.4.27.131    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000T7  
+  10.4.27.132    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000M1  
+  10.4.27.133    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000T5  
+  10.4.27.134    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000M0  
+  10.4.27.135    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000SX  
+  10.4.27.136    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000LZ  
+  10.4.27.137    Manufacturer: HP      Name: ProLiant DL360 Gen9  Serial: CN781000M2  
+  10.4.27.138    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSB  
+  10.4.27.139    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT2  
+  10.4.27.140    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSV  
+  10.4.27.141    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTF  
+  10.4.27.142    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSP  
+  10.4.27.143    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTC  
+  10.4.27.144    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTG  
+  10.4.27.145    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTM  
+  10.4.27.146    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSS  
+  10.4.27.147    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTN  
+  10.4.27.148    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSW  
+  10.4.27.149    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSZ  
+  10.4.27.150    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSX  
+  10.4.27.151    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSD  
+  10.4.27.152    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSC  
+  10.4.27.153    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GTB  
+  10.4.27.154    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT0  
+  10.4.27.155    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSF  
+  10.4.27.156    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSY  
+  10.4.27.157    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT5  
+  10.4.27.158    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT6  
+  10.4.27.159    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSR  
+  10.4.27.160    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT8  
+  10.4.27.161    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GSH  
+  10.4.27.162    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79120GT9  
+  10.4.27.163    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227693   
+  10.4.27.164    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227724   
+  10.4.27.165    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227694   
+  10.4.27.166    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227734   
+  10.4.27.167    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227703   
+  10.4.27.168    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227715   
+  10.4.27.169    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227690   
+  10.4.27.170    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227709   
+  10.4.27.171    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227697   
+  10.4.27.172    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227708   
+  10.4.27.173    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227707   
+  10.4.27.174    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227684   
+  10.4.27.175    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227706   
+  10.4.27.176    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227712   
+  10.4.27.177    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227730   
+  10.4.27.178    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227713   
+  10.4.27.179    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227705   
+  10.4.27.180    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227698   
+  10.4.27.181    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227717   
+  10.4.27.186    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227762   
+  10.4.27.187    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227761   
+  10.4.27.188    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227760   
+  10.4.27.189    Manufacturer: Inspur  Name: SA5112M5             Serial: 719227759   
+  10.4.27.190    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227763   
+  10.4.27.191    Manufacturer: Inspur  Name: SA5212M5             Serial: 719227764   
+  10.4.27.192    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042V  
+  10.4.27.193    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042D  
+  10.4.27.194    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042R  
+  10.4.27.195    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042W  
+  10.4.27.196    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042Q  
+  10.4.27.197    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042N  
+  10.4.27.198    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042T  
+  10.4.27.199    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042S  
+  10.4.27.200    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042B  
+  10.4.27.201    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041Q  
+  10.4.27.202    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041R  
+  10.4.27.203    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041T  
+  10.4.27.204    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041Y  
+  10.4.27.205    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290423  
+  10.4.27.206    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290428  
+  10.4.27.207    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN79290420  
+  10.4.27.208    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041V  
+  10.4.27.209    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042K  
+  10.4.27.210    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041M  
+  10.4.27.211    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041Z  
+  10.4.27.212    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041W  
+  10.4.27.213    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929041S  
+  10.4.27.214    Manufacturer: HPE     Name: ProLiant DL360 Gen10 Serial: CN7929042M  
+  10.4.27.215    Manufacturer: Inspur  Name: SA5212M5             Serial: 719228655   
+  10.4.27.218                                                                         
+  10.4.27.219                                                                         
+  10.4.27.220                                                                         
+  10.4.27.221                                                                         
+  10.4.27.222                                                                         
+  10.4.27.223                                                                         
+  10.4.27.224                                                                         
+  10.4.27.225                                                                         
+  10.4.27.226                                                                         
+  10.4.27.227                                                                         
+  10.4.27.228                                                                         
+  10.4.27.229                                                                         
+  10.4.27.230                                                                         
+  10.4.27.231                                                                         
+  10.4.27.232                                                                         
+  10.4.27.233                                                                         
+  10.4.27.234                                                                         
+  10.4.27.235                                                                         
+  10.4.27.236                                                                         
+  10.4.27.237                                                                         
+  10.4.27.238                                                                         
+  10.4.27.239                                                                         
+  10.4.27.240                                                                         
+  10.4.27.241                                                                         
+  10.4.27.242                                                                         
+  10.4.27.243                                                                         
+  10.4.27.244                                                                         
+  10.4.27.245                                                                         
+  10.4.27.246                                                                         
+  10.4.27.247                                                                         
+  10.4.27.248                                                                         
+  10.4.27.249                                                                         
+  10.4.27.250                                                                         
+  10.4.27.251                                                                         
+  10.4.27.252                                                                         
+  10.4.27.253                                                                         
+  10.4.32.11     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228648   
+  10.4.32.12     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228649   
+  10.4.32.13     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228650   
+  10.4.32.14     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228647   
+  10.4.32.15     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228651   
+  10.4.32.16     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228652   
+  10.4.32.17     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228653   
+  10.4.32.18     Manufacturer: Inspur  Name: SA5212M5             Serial: 719228654   
+  10.4.32.19     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242189   
+  10.4.32.20     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242190   
+  10.4.32.21     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242191   
+  10.4.32.22     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242192   
+  10.4.32.23     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242193   
+  10.4.32.24     Manufacturer: Inspur  Name: SA5212M5             Serial: 719242194   
