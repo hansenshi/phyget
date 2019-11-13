@@ -391,8 +391,8 @@ addUser () {
   #read -p "  用户名: " UserN
   #read -sp "    密码: " PassN ; echo
   UserIdN=4
-  UserN='TADMIN'
-  PassN='PASSW0RD'
+  UserN='TESTADMIN'
+  PassN='PASSWORD'
   echo
   $ExeCmd -r $1 -u $User -p $Pass --nocertwarn set idrac.users.${UserIdN}.UserName $UserN &> /dev/null && echo "  setting username success"
   $ExeCmd -r $1 -u $User -p $Pass --nocertwarn set idrac.users.${UserIdN}.Password $PassN &> /dev/null && echo "  setting password success"
@@ -446,8 +446,8 @@ OutputPath=$FilePath/output
 PrePath=$FilePath/pre
 ExeCmd=/usr/sbin/racadm
 
-User='admin'
-Pass='PASSW0RD'
+User='ADMIN'
+Pass='PASSWORD'
 ReadCommunity='COMMUNITY'
 iplst=`cat phyget_dell.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
