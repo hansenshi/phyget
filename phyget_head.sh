@@ -3,8 +3,7 @@
 trap 'echo "Quit..."; exit 10' SIGINT
 
 User='admin'
-Pass='Ops68!ppd'
-#Pass='Admin123'
+Pass='Passw0rd'
 iplst=`cat phyget_head.ip`
 ipfilelst='phyget_dell.ip phyget_inspur.ip phyget_hp.ip'
 OutputPath=/opscripts/auto_phymac/phymac_get/phyget_head/output
