@@ -438,8 +438,8 @@ cycleAllByFunction () {
 addUser () {
 #  read -p "  用户名: " UserN
 #  read -sp "    密码: " PassN ; echo
-  UserN='adminapi'
-  PassN='Ops2@19i2ppd'
+  UserN='TESTADMIN'
+  PassN='PASSWORD'
   echo
   perl $ExeCmd -s $1 -u $User -p $Pass -f $XPath/ADD_USER.xml -t UserNew=$UserN,PassNew=$PassN | grep '^\.\.\..*\.\.\.' | sed -e 's/^/  /g'
   #perl $ExeCmd -s $1 -u $User -p $Pass -f $XPath/ADD_USER.xml -t UserNew=$UserN,PassNew=$PassN
@@ -483,10 +483,9 @@ OutputPath=$FilePath/output
 PrePath=$FilePath/pre
 ExeCmd=$FilePath/hp_xml/locfg.pl
 
-User='admin'
-Pass='Ops68!ppd'
-#Pass='Admin123'
-ReadCommunity='One1Dream2'
+User='ADMIN'
+Pass='PASSWORD'
+ReadCommunity='COMMUNITY'
 iplst=`cat phyget_hp.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
 
