@@ -1,9 +1,8 @@
 #!/bin/bash
 #
 
-User='admin'
-Pass='Ops68!ppd'
-#Pass='Admin123'
+User='ADMIN'
+Pass='PASSWORD'
 iplst=`cat phyget_head.ip`
 ipfilelst='phyget_dell.ip phyget_inspur.ip phyget_hp.ip'
 > phyget_dell.ip
