@@ -478,11 +478,9 @@ OutputPath=$FilePath/output
 PrePath=$FilePath/pre
 ExeCmd=$FilePath/hp_xml/locfg.pl
 
-User='admin'
-#User='administrator'
-Pass='Ops68!ppd'
-#Pass='Ops45!pdt'
-ReadCommunity='One1Dream2'
+User='ADMIN'
+Pass='PASSWORD'
+ReadCommunity='COMMUNITY'
 iplst=`cat phyget_hp.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
 
