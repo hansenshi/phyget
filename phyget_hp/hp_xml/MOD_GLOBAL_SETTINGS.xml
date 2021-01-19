@@ -1,9 +1,0 @@
-<RIBCL VERSION="2.0">
-   <LOGIN USER_LOGIN="adminname" PASSWORD="password">
-      <RIB_INFO MODE="write">
-         <MOD_GLOBAL_SETTINGS>
-            <IPMI_DCMI_OVER_LAN_ENABLED value="n"/>
-         </MOD_GLOBAL_SETTINGS>
-      </RIB_INFO>
-   </LOGIN>
-</RIBCL>
