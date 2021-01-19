@@ -459,10 +459,9 @@ PrePath=$FilePath/pre
 LogPath=/opt/ISREST/ISREST-Linux-V1R1/logs/
 ExeCmd=/opt/ISREST/ISREST-Linux-V1R1/bin/isrest
 
-User='admin'
-#Pass='Admin123'
-Pass='Ops68!ppd'
-ReadCommunity='One1Dream2'
+User='ADMIN'
+Pass='PASSWROD'
+ReadCommunity='COMMUNITY'
 iplst=`cat phyget_inspur.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
 
