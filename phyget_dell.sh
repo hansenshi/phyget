@@ -452,10 +452,9 @@ OutputPath=$FilePath/output
 PrePath=$FilePath/pre
 ExeCmd=/usr/sbin/racadm
 
-User='admin'
-Pass='Ops68!ppd'
-#Pass='Admin123'
-ReadCommunity='One1Dream2'
+User='ADMIN'
+Pass='PASSWORD'
+ReadCommunity='COMMUNITY'
 iplst=`cat phyget_dell.ip`
 curtime=`date +%Y-%m-%d_%H-%M-%S`
 
